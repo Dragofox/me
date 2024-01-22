@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<yml_catalog date="2023-12-21 00:00">
+	<shop><name>«ПитерОилс»</name>
+		<company>ООО «ПитерОилс»</company>
+		<url>https://piteroils.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+<categories>
+<category id="912">Масла</category>
+<category id="913" parentId="912">Отечественные</category>
+<category id="914" parentId="913">Лукойл</category>
+<category id="915" parentId="914">Синтетические</category>
+<category id="916" parentId="914">Полусинтетические</category>
+<category id="917" parentId="914">Минеральные</category>
+<category id="918" parentId="914">Мото</category>
+<category id="924" parentId="913">Ойл Райт</category>
+<category id="925" parentId="924">Полусинтетические</category>
+<category id="926" parentId="924">Минеральные</category>
+<category id="929" parentId="913">Газпром-Нефть</category>
+<category id="1614" parentId="929">Промывочное масло</category>
+<category id="930" parentId="929">Минеральные</category>
+<category id="931" parentId="929">Полусинтетические</category>
+<category id="1223" parentId="929">Синтетические</category>
+<category id="1658" parentId="913">UNIX</category>
+<category id="1659" parentId="1658">Синтетические</category>
+<category id="1665" parentId="913">ROLF</category>
+<category id="1666" parentId="1665">Синтетические</category>
+<category id="1184" parentId="913">Роснефть</category>
+<category id="1631" parentId="1184">Минеральные</category>
+<category id="1185" parentId="1184">Синтетические</category>
+<category id="1186" parentId="1184">Полусинтетические</category>
+<category id="1687" parentId="913">Sintec</category>
+<category id="1688" parentId="1687">Синтетические</category>
+<category id="1199" parentId="913">G-Energy</category>
+<category id="1200" parentId="1199">Синтетические</category>
+<category id="1201" parentId="1199">Полусинтетические</category>
+<category id="1202" parentId="1199">Трансмиссионные</category>
+<category id="1699" parentId="913">Taif</category>
+<category id="1753" parentId="913">Mirax</category>
+<category id="1275" parentId="913">Волга Ойл</category>
+<category id="936" parentId="912">Импортные</category>
+<category id="937" parentId="936">Оригинальные масла</category>
+<category id="938" parentId="937">GM</category>
+<category id="939" parentId="938">Синтетические</category>
+<category id="940" parentId="938">Полусинтетические</category>
+<category id="941" parentId="937">Ford</category>
+<category id="942" parentId="937">BMW</category>
+<category id="943" parentId="937">Honda</category>
+<category id="1388" parentId="943">Синтетические</category>
+<category id="944" parentId="937">Mazda</category>
+<category id="945" parentId="937">Mitsubishi</category>
+<category id="946" parentId="937">Nissan</category>
+<category id="947" parentId="937">TOYOTA</category>
+<category id="1144" parentId="937">Hyundai-KIA</category>
+<category id="1344" parentId="1144">Синтетические</category>
+<category id="1345" parentId="1144">Полусинтетические</category>
+<category id="1608" parentId="937">Renault</category>
+<category id="1626" parentId="937">Suzuki</category>
+<category id="1198" parentId="937">Subaru</category>
+<category id="1222" parentId="937">Mercedes-Benz</category>
+<category id="1265" parentId="937">VAG</category>
+<category id="948" parentId="936">BP</category>
+<category id="949" parentId="948">Синтетические</category>
+<category id="950" parentId="948">Полусинтетические</category>
+<category id="951" parentId="936">Castrol</category>
+<category id="952" parentId="951">Синтетические</category>
+<category id="953" parentId="951">Полусинтетические</category>
+<category id="954" parentId="951">Минеральные</category>
+<category id="956" parentId="936">Chevron</category>
+<category id="1373" parentId="956">Полусинтетические</category>
+<category id="957" parentId="936">Elf</category>
+<category id="958" parentId="957">Синтетические</category>
+<category id="959" parentId="957">Полусинтетические</category>
+<category id="960" parentId="936">Mobil</category>
+<category id="961" parentId="960">Синтетические</category>
+<category id="962" parentId="960">Полусинтетические</category>
+<category id="963" parentId="960">Минеральные</category>
+<category id="971" parentId="936">Liqui Moly</category>
+<category id="972" parentId="971">Синтетические</category>
+<category id="973" parentId="971">Полусинтетические</category>
+<category id="977" parentId="936">Mannol</category>
+<category id="978" parentId="977">Синтетические</category>
+<category id="979" parentId="977">Полусинтетические</category>
+<category id="980" parentId="977">Минеральные</category>
+<category id="983" parentId="936">Ravenol</category>
+<category id="984" parentId="983">Синтетические</category>
+<category id="985" parentId="983">Полусинтетические</category>
+<category id="986" parentId="936">Shell</category>
+<category id="987" parentId="986">Синтетические</category>
+<category id="988" parentId="986">Полусинтетические</category>
+<category id="996" parentId="936">Total</category>
+<category id="997" parentId="996">Синтетические</category>
+<category id="998" parentId="996">Полусинтетические</category>
+<category id="1001" parentId="936">ZIC</category>
+<category id="1002" parentId="1001">Синтетические</category>
+<category id="1003" parentId="1001">Полусинтетические</category>
+<category id="1596" parentId="936">Bardahl</category>
+<category id="1616" parentId="936">KIXX</category>
+<category id="1617" parentId="1616">Синтетические</category>
+<category id="1618" parentId="1616">Полусинтетические</category>
+<category id="1652" parentId="936">REPSOL</category>
+<category id="1653" parentId="1652">Синтетические</category>
+<category id="1654" parentId="1652">Полусинтетические</category>
+<category id="1173" parentId="936">ENI(AGIP)</category>
+<category id="1174" parentId="1173">Синтетические</category>
+<category id="1263" parentId="1173">Полусинтетика</category>
+<category id="1669" parentId="936">TAKAYAMA</category>
+<category id="1670" parentId="1669">Синтетические</category>
+<category id="1685" parentId="1669">Полусинтетические</category>
+<category id="1678" parentId="936">BELL1</category>
+<category id="1681" parentId="936">FQ</category>
+<category id="1682" parentId="1681">Синтетические</category>
+<category id="1683" parentId="1681">Полусинтетические</category>
+<category id="1690" parentId="936">ROWE</category>
+<category id="1691" parentId="1690">Синтетические</category>
+<category id="1730" parentId="936">MOL</category>
+<category id="1754" parentId="936">Eurol</category>
+<category id="1711" parentId="936">TEBOIL</category>
+<category id="1769" parentId="936">Valvoline</category>
+<category id="1770" parentId="1769">Синтетические</category>
+<category id="1810" parentId="936">Fuchs</category>
+<category id="1811" parentId="1810">Синтетические</category>
+<category id="1812" parentId="1810">Полусинтетические</category>
+<category id="1815" parentId="936">LIVCAR</category>
+<category id="1816" parentId="1815">Синтетические</category>
+<category id="1817" parentId="1815">Полусинтетические</category>
+<category id="1261" parentId="936">IDEMITSU</category>
+<category id="1307" parentId="1261">Полусинтетические</category>
+<category id="1262" parentId="1261">Синтетические</category>
+<category id="1821" parentId="936">Lemarc</category>
+<category id="1822" parentId="1821">Синтетические</category>
+<category id="1317" parentId="936">AUTOBACS</category>
+<category id="1318" parentId="1317">Синтетические</category>
+<category id="1252" parentId="936">MOTUL</category>
+<category id="1253" parentId="1252">Синтетические</category>
+<category id="1370" parentId="936">TOTACHI</category>
+<category id="1371" parentId="1370">Синтетические</category>
+<category id="1425">Трансмиссионные масла</category>
+<category id="1480" parentId="1425">Оригиналы</category>
+<category id="1493" parentId="1480">Honda</category>
+<category id="1487" parentId="1480">VAG</category>
+<category id="1481" parentId="1480">GM</category>
+<category id="1495" parentId="1480">Hyundai-KIA</category>
+<category id="1482" parentId="1480">BMW</category>
+<category id="1528" parentId="1480">Ford</category>
+<category id="1483" parentId="1480">Mazda</category>
+<category id="1484" parentId="1480">Mitsubishi</category>
+<category id="1570" parentId="1480">Volvo</category>
+<category id="1485" parentId="1480">Nissan</category>
+<category id="1486" parentId="1480">Toyota</category>
+<category id="1613" parentId="1480">Mercedes-Benz</category>
+<category id="1448" parentId="1425">Mobil</category>
+<category id="1449" parentId="1448">ATF</category>
+<category id="1450" parentId="1448">Трансмиссионные</category>
+<category id="1427" parentId="1425">Castrol</category>
+<category id="1433" parentId="1427">ATF</category>
+<category id="1434" parentId="1427">Трансмиссионные</category>
+<category id="1437" parentId="1425">Elf</category>
+<category id="1628" parentId="1437">ATF</category>
+<category id="1438" parentId="1437">Трансмиссионные</category>
+<category id="1451" parentId="1425">Shell</category>
+<category id="1452" parentId="1451">ATF</category>
+<category id="1453" parentId="1451">Трансмиссионные</category>
+<category id="1439" parentId="1425">Eni</category>
+<category id="1440" parentId="1439">ATF</category>
+<category id="1444" parentId="1425">Idemitsu</category>
+<category id="1445" parentId="1444">ATF</category>
+<category id="1441" parentId="1425">Febi</category>
+<category id="1442" parentId="1441">ATF</category>
+<category id="1443" parentId="1441">Трансмиссионные</category>
+<category id="1446" parentId="1425">Liqui Moly</category>
+<category id="1513" parentId="1446">Трансмиссионные</category>
+<category id="1447" parentId="1446">ATF</category>
+<category id="1430" parentId="1425">Mannol</category>
+<category id="1435" parentId="1430">ATF</category>
+<category id="1436" parentId="1430">Трансмиссионные</category>
+<category id="1457" parentId="1425">Mopar</category>
+<category id="1458" parentId="1457">ATF</category>
+<category id="1459" parentId="1425">Motul</category>
+<category id="1460" parentId="1459">ATF</category>
+<category id="1461" parentId="1459">Трансмиссионные</category>
+<category id="1454" parentId="1425">Total</category>
+<category id="1455" parentId="1454">Трансмиссионные</category>
+<category id="1456" parentId="1454">ATF</category>
+<category id="1462" parentId="1425">ZIC</category>
+<category id="1463" parentId="1462">ATF</category>
+<category id="1464" parentId="1462">Трансмиссионные</category>
+<category id="1465" parentId="1425">Pentosin</category>
+<category id="1466" parentId="1465">ATF</category>
+<category id="1474" parentId="1425">ОйлРайт</category>
+<category id="1475" parentId="1474">Трансмиссионные</category>
+<category id="1467" parentId="1425">Лукойл</category>
+<category id="1468" parentId="1467">ATF</category>
+<category id="1469" parentId="1467">Трансмиссионные</category>
+<category id="1476" parentId="1425">Luxe</category>
+<category id="1477" parentId="1476">ATF</category>
+<category id="1478" parentId="1425">Totachi</category>
+<category id="1479" parentId="1478">ATF</category>
+<category id="1488" parentId="1425">Газпром-Нефть</category>
+<category id="1470" parentId="1425">Роснефть</category>
+<category id="1471" parentId="1470">Трансмиссионные</category>
+<category id="1472" parentId="1425">Волга Ойл</category>
+<category id="1473" parentId="1472">Трансмиссионные</category>
+<category id="1544" parentId="1425">Sintec</category>
+<category id="1545" parentId="1544">ATF</category>
+<category id="1561" parentId="1425">ABRO</category>
+<category id="1619" parentId="1425">KIXX</category>
+<category id="1620" parentId="1619">ATF</category>
+<category id="1621" parentId="1619">Трансмиссионные</category>
+<category id="1660" parentId="1425">UNIX</category>
+<category id="1661" parentId="1660">ATF</category>
+<category id="1679" parentId="1425">BELL1</category>
+<category id="1680" parentId="1679">ATF</category>
+<category id="1684" parentId="1425">FQ</category>
+<category id="1689" parentId="1425">PENNZOIL</category>
+<category id="1692" parentId="1425">Ravenol</category>
+<category id="1693" parentId="1692">ATF</category>
+<category id="1694" parentId="1692">Трансмиссионные</category>
+<category id="1731" parentId="1425">MOL</category>
+<category id="1732" parentId="1731">ATF</category>
+<category id="1703" parentId="1425">ROWE</category>
+<category id="1704" parentId="1703">ATF</category>
+<category id="1705" parentId="1703">Трансмиссионные</category>
+<category id="1735" parentId="1425">TAIF</category>
+<category id="1759" parentId="1425">Eurol</category>
+<category id="1760" parentId="1759">ATF</category>
+<category id="1761" parentId="1759">Трансмиссионные</category>
+<category id="1806" parentId="1425">TAKAYAMA</category>
+<category id="1807" parentId="1806">Трансмиссионные</category>
+<category id="1813" parentId="1425">Fuchs</category>
+<category id="1814" parentId="1813">ATF</category>
+<category id="1006">Грузовые масла</category>
+<category id="1007" parentId="1006">Отечественные</category>
+<category id="1008" parentId="1007">Лукойл</category>
+<category id="1009" parentId="1008">Полусинтетические</category>
+<category id="1010" parentId="1008">Минеральные</category>
+<category id="1014" parentId="1007">Ойл Райт</category>
+<category id="1015" parentId="1007">Luxoil</category>
+<category id="1016" parentId="1007">Газпром-Нефть</category>
+<category id="1152" parentId="1007">Волга Ойл</category>
+<category id="1187" parentId="1007">Роснефть</category>
+<category id="1374" parentId="1187">Полусинтетические</category>
+<category id="1375" parentId="1187">Минеральные</category>
+<category id="1604" parentId="1007">OILWAY</category>
+<category id="1667" parentId="1007">ROLF</category>
+<category id="1702" parentId="1007">TAIF</category>
+<category id="1739" parentId="1007">Sintec</category>
+<category id="1740" parentId="1007">Ладога</category>
+<category id="1017" parentId="1006">Импортные</category>
+<category id="1018" parentId="1017">Mobil</category>
+<category id="1019" parentId="1018">Синтетические</category>
+<category id="1020" parentId="1018">Полусинтетические</category>
+<category id="1021" parentId="1018">Минеральные</category>
+<category id="1022" parentId="1017">Shell</category>
+<category id="1023" parentId="1017">Castrol</category>
+<category id="1024" parentId="1017">Mannol</category>
+<category id="1025" parentId="1024">Полусинтетические</category>
+<category id="1026" parentId="1024">Минеральные</category>
+<category id="1027" parentId="1017">Teboil</category>
+<category id="1377" parentId="1027">Синтетические</category>
+<category id="1378" parentId="1027">Полусинтетические</category>
+<category id="1379" parentId="1027">Минеральные</category>
+<category id="1136" parentId="1017">Total</category>
+<category id="1137" parentId="1136">Полусинтетические</category>
+<category id="1138" parentId="1136">Минеральные</category>
+<category id="1211" parentId="1017">ZIC</category>
+<category id="1212" parentId="1211">Полусинтетические</category>
+<category id="1213" parentId="1211">Синтетические</category>
+<category id="1267" parentId="1017">Motul</category>
+<category id="1712" parentId="1017">REPSOL</category>
+<category id="1758" parentId="1017">Eurol</category>
+<category id="1028">Смазки</category>
+<category id="1029" parentId="1028">Отечественные</category>
+<category id="1030" parentId="1029">Циатим</category>
+<category id="1031" parentId="1029">Литол</category>
+<category id="1032" parentId="1029">Графитная смазка</category>
+<category id="1033" parentId="1029">158 Смазка</category>
+<category id="1034" parentId="1029">Солидол</category>
+<category id="1035" parentId="1029">Газпром-Нефть</category>
+<category id="1036" parentId="1029">Шрус-4М</category>
+<category id="1040" parentId="1029">Силиконовая смазка</category>
+<category id="1041" parentId="1029">Синяя смазка</category>
+<category id="1042" parentId="1029">Черная смазка</category>
+<category id="1306" parentId="1029">ВНИИНП</category>
+<category id="1273" parentId="1029">Медная смазка</category>
+<category id="1315" parentId="1029">Канатная смазка</category>
+<category id="1043" parentId="1028">Импортные</category>
+<category id="1044" parentId="1043">WD-40</category>
+<category id="1045" parentId="1043">ABRO</category>
+<category id="1143" parentId="1043">Пластичная смазка</category>
+<category id="1268" parentId="1043">Mobil</category>
+<category id="1270" parentId="1043">Chevron</category>
+<category id="1266" parentId="1043">Shell</category>
+<category id="1380" parentId="1043">Totachi</category>
+<category id="1381" parentId="1043">Castrol</category>
+<category id="1382" parentId="1043">Eni (AGIP)</category>
+<category id="1383" parentId="1043">Neste</category>
+<category id="1384" parentId="1043">PERMATEX</category>
+<category id="1560" parentId="1043">Total</category>
+<category id="1716" parentId="1043">Mannol</category>
+<category id="1046">Автохимия</category>
+<category id="1053" parentId="1046">Промывки двигателя</category>
+<category id="1047" parentId="1046">Присадки</category>
+<category id="1049" parentId="1047">LIQUI MOLY</category>
+<category id="1050" parentId="1047">ХАДО</category>
+<category id="1051" parentId="1047">Suprotec</category>
+<category id="1052" parentId="1047">WYNNS</category>
+<category id="1163" parentId="1047">SMT</category>
+<category id="1180" parentId="1047">FENOM</category>
+<category id="1183" parentId="1047">3TON</category>
+<category id="1214" parentId="1047">ER</category>
+<category id="1507" parentId="1047">Антигель для дизтоплива</category>
+<category id="1520" parentId="1047">HG</category>
+<category id="1542" parentId="1047">LAVR</category>
+<category id="1623" parentId="1047">KIXX</category>
+<category id="1802" parentId="1047">Astrohim</category>
+<category id="1808" parentId="1047">ВМП</category>
+<category id="1809" parentId="1047">VAG</category>
+<category id="1129" parentId="1046">Раскоксовки</category>
+<category id="1055" parentId="1046">Герметик прокладка</category>
+<category id="1805" parentId="1055">LOCTITE</category>
+<category id="1056" parentId="1046">Очистители</category>
+<category id="1287" parentId="1046">Средства для системы охлаждения</category>
+<category id="1059" parentId="1046">Автошампуни</category>
+<category id="1130" parentId="1046">Шпаклевки</category>
+<category id="1158" parentId="1046">Очистители рук</category>
+<category id="1182" parentId="1046">Антифриз для пневмотормозов</category>
+<category id="1286" parentId="1046">Обезжириватели</category>
+<category id="1288" parentId="1046">Уход за шинами и дисками</category>
+<category id="1289" parentId="1046">Уход за салоном</category>
+<category id="1799" parentId="1289">Уход за кожей</category>
+<category id="1800" parentId="1289">Уход за пластиком</category>
+<category id="1801" parentId="1289">Уход за тканью</category>
+<category id="1290" parentId="1046">Быстрый старт</category>
+<category id="1497" parentId="1046">Мастика, Мовиль</category>
+<category id="1535" parentId="1046">Для стекол</category>
+<category id="1541" parentId="1046">Для кузова</category>
+<category id="1549" parentId="1541">Уход за кузовом</category>
+<category id="1550" parentId="1549">Полироли</category>
+<category id="1557" parentId="1549">Очиститель двигателя</category>
+<category id="1558" parentId="1549">Удаление царапин</category>
+<category id="1571" parentId="1549">Очистители</category>
+<category id="1552" parentId="1541">Преобразователи ржавчины</category>
+<category id="1554" parentId="1541">Антигравий</category>
+<category id="1555" parentId="1541">Краски и эмали</category>
+<category id="1556" parentId="1541">Грунтовка</category>
+<category id="1568" parentId="1541">Мастика, Мовиль</category>
+<category id="1567" parentId="1541">Пушечное сало</category>
+<category id="1548" parentId="1046">Размораживатели замков</category>
+<category id="1553" parentId="1046">Смазки универсальные</category>
+<category id="1572" parentId="1046">Для мото техники и водного транспорта</category>
+<category id="1798" parentId="1046">Ароматизаторы</category>
+<category id="1063">Автожидкости</category>
+<category id="1064" parentId="1063">Тосол</category>
+<category id="1065" parentId="1064">Spectrol</category>
+<category id="1066" parentId="1064">Гостовский</category>
+<category id="1067" parentId="1064">Лужский</category>
+<category id="1195" parentId="1064">Sintec</category>
+<category id="1280" parentId="1064">OilRight</category>
+<category id="1237" parentId="1064">FELIX</category>
+<category id="1629" parentId="1064">Газпром Нефть</category>
+<category id="1650" parentId="1064">Titanium</category>
+<category id="1069" parentId="1063">Антифриз</category>
+<category id="1070" parentId="1069">Импортный</category>
+<category id="1071" parentId="1070">Kuttenkeuler</category>
+<category id="1072" parentId="1070">Chevron</category>
+<category id="1073" parentId="1070">Febi</category>
+<category id="1074" parentId="1070">Neste</category>
+<category id="1204" parentId="1070">Castrol</category>
+<category id="1269" parentId="1070">Mobil</category>
+<category id="1282" parentId="1070">Total</category>
+<category id="1498" parentId="1070">NISSAN</category>
+<category id="1496" parentId="1070">VAG</category>
+<category id="1499" parentId="1070">GM</category>
+<category id="1531" parentId="1070">SWAG</category>
+<category id="1562" parentId="1070">TOTACHI</category>
+<category id="1569" parentId="1070">HYUNDAI</category>
+<category id="1630" parentId="1070">ELF</category>
+<category id="1632" parentId="1070">Shell</category>
+<category id="1755" parentId="1070">Rowe</category>
+<category id="1077" parentId="1069">Отечественный</category>
+<category id="1078" parentId="1077">Spectrol</category>
+<category id="1079" parentId="1077">Газпром-Нефть</category>
+<category id="1080" parentId="1077">Felix</category>
+<category id="1081" parentId="1077">Лужский</category>
+<category id="1156" parentId="1077">Гостовский</category>
+<category id="1157" parentId="1077">Sintec</category>
+<category id="1196" parentId="1077">Sibiria</category>
+<category id="1281" parentId="1077">OilRight</category>
+<category id="1332" parentId="1077">Лукойл</category>
+<category id="1491" parentId="1077">AWM</category>
+<category id="1525" parentId="1077">OILWAY</category>
+<category id="1624" parentId="1077">CoolStream</category>
+<category id="1627" parentId="1077">NORD</category>
+<category id="1651" parentId="1077">Titanium</category>
+<category id="1668" parentId="1077">X-FREEZE</category>
+<category id="1083" parentId="1063">Мочевина</category>
+<category id="1084" parentId="1063">Дистиллированная вода</category>
+<category id="1085" parentId="1063">Стеклоомыватели (ЖБО)</category>
+<category id="1086" parentId="1063">Растворители</category>
+<category id="1087" parentId="1063">Электролит</category>
+<category id="1088">Индустриальные смазочные материалы</category>
+<category id="1089" parentId="1088">Авиационные </category>
+<category id="1743" parentId="1089">Девон</category>
+<category id="1090" parentId="1088">Гидравлические</category>
+<category id="1092" parentId="1090">Ойл Райт</category>
+<category id="1093" parentId="1090">Газпром-Нефть</category>
+<category id="1094" parentId="1090">Mannol</category>
+<category id="1095" parentId="1090">Mobil</category>
+<category id="1096" parentId="1090">Shell</category>
+<category id="1139" parentId="1090">Лукойл</category>
+<category id="1153" parentId="1090">Волга Ойл</category>
+<category id="1155" parentId="1090">Роснефть </category>
+<category id="1255" parentId="1090">TOTAL</category>
+<category id="1257" parentId="1090">SINTOIL</category>
+<category id="1277" parentId="1090">Castrol</category>
+<category id="1229" parentId="1090">ZIC</category>
+<category id="1284" parentId="1090">Teboil</category>
+<category id="1352" parentId="1090">Ладога</category>
+<category id="1376" parentId="1090">Repsol</category>
+<category id="1501" parentId="1090">FUCHS</category>
+<category id="1518" parentId="1090">OILWAY</category>
+<category id="1647" parentId="1090">ALPHA OIL</category>
+<category id="1662" parentId="1090">UNIX</category>
+<category id="1742" parentId="1090">ДЕВОН</category>
+<category id="1097" parentId="1088">Индустриальные</category>
+<category id="1360" parentId="1097">Волга-Ойл</category>
+<category id="1361" parentId="1097">Роснефть</category>
+<category id="1362" parentId="1097">Газпром-Нефть</category>
+<category id="1363" parentId="1097">ЛАДОГА</category>
+<category id="1663" parentId="1097">UNIX</category>
+<category id="1744" parentId="1097">Девон</category>
+<category id="1098" parentId="1088">Смазочно-охлаждающие жидкости (СОЖ)</category>
+<category id="1296" parentId="1098">Mobil</category>
+<category id="1368" parentId="1098">ЛАДОГА</category>
+<category id="1385" parentId="1098">Роснефть</category>
+<category id="1386" parentId="1098">Акватек</category>
+<category id="1387" parentId="1098">Лукойл</category>
+<category id="1389" parentId="1098">Вексанол</category>
+<category id="1583" parentId="1098">ВЕРСА</category>
+<category id="1584" parentId="1098">СЕРВОВИТ</category>
+<category id="1606" parentId="1098">Gazpromneft</category>
+<category id="1741" parentId="1098">Fuchs</category>
+<category id="1099" parentId="1088">Компрессорные</category>
+<category id="1100" parentId="1099">ТНК</category>
+<category id="1101" parentId="1099">Ойл Райт</category>
+<category id="1102" parentId="1099">Mannol</category>
+<category id="1103" parentId="1099">Mobil</category>
+<category id="1141" parentId="1099">Shell</category>
+<category id="1142" parentId="1099">Total</category>
+<category id="1160" parentId="1099">XADO</category>
+<category id="1161" parentId="1099">3TON</category>
+<category id="1301" parentId="1099">Газпром-Нефть</category>
+<category id="1648" parentId="1099">ALPHA OIL</category>
+<category id="1746" parentId="1099">Девон</category>
+<category id="1207" parentId="1088">Масла для направляющих скольжения</category>
+<category id="1208" parentId="1207">Mobil</category>
+<category id="1225" parentId="1207">Газпром-Нефть</category>
+<category id="1303" parentId="1207">Shell</category>
+<category id="1304" parentId="1207">Total</category>
+<category id="1645" parentId="1207">Роснефть</category>
+<category id="1747" parentId="1207">Девон</category>
+<category id="1818" parentId="1207">TAIF</category>
+<category id="1209" parentId="1088">Масла для газовых двигателей</category>
+<category id="1300" parentId="1209">Mobil</category>
+<category id="1210" parentId="1088">Масла для циркуляционных систем</category>
+<category id="1331" parentId="1210">Shell</category>
+<category id="1224" parentId="1088">Масла для компрессоров холодильных установок</category>
+<category id="1364" parentId="1224">Mobil</category>
+<category id="1365" parentId="1224">ЛАДОГА</category>
+<category id="1752" parentId="1224">Девон</category>
+<category id="1227" parentId="1088">Редукторные масла</category>
+<category id="1256" parentId="1227">Mobil</category>
+<category id="1258" parentId="1227">Shell</category>
+<category id="1291" parentId="1227">Газпром-Нефть</category>
+<category id="1302" parentId="1227">Total</category>
+<category id="1646" parentId="1227">Роснефть</category>
+<category id="1649" parentId="1227">ALPHA OIL</category>
+<category id="1738" parentId="1227">Лукойл</category>
+<category id="1748" parentId="1227">Девон</category>
+<category id="1294" parentId="1088">Турбинные масла</category>
+<category id="1295" parentId="1294">Газпром-Нефть</category>
+<category id="1353" parentId="1294">Ладога</category>
+<category id="1369" parentId="1294">Роснефть</category>
+<category id="1749" parentId="1294">Девон</category>
+<category id="1297" parentId="1088">Теплоносители</category>
+<category id="1298" parentId="1297">Total</category>
+<category id="1299" parentId="1297">Mobil</category>
+<category id="1615" parentId="1297">Газпром-Нефть</category>
+<category id="1750" parentId="1297">Девон</category>
+<category id="1326" parentId="1088">Масла для пневматических инструментов</category>
+<category id="1327" parentId="1326">Total</category>
+<category id="1328" parentId="1326">Mobil</category>
+<category id="1529" parentId="1326">FILLinn</category>
+<category id="1329" parentId="1088">Трансформаторные масла</category>
+<category id="1330" parentId="1329">Shell</category>
+<category id="1563" parentId="1329">Газпром-Нефть</category>
+<category id="1349" parentId="1088">Дизельные моторные масла (суда, тепловозы)</category>
+<category id="1350" parentId="1349">Отечественные</category>
+<category id="1751" parentId="1349">Девон</category>
+<category id="1366" parentId="1088">Вакуумные масла</category>
+<category id="1367" parentId="1366">ЛАДОГА</category>
+<category id="1745" parentId="1366">Девон</category>
+<category id="1516" parentId="1088">Масла для пищевой промышленности</category>
+<category id="1517" parentId="1516">Total</category>
+<category id="1537" parentId="1088">Цепное масло</category>
+<category id="1538" parentId="1537">Oil Right</category>
+<category id="1539" parentId="1537">3TON</category>
+<category id="1540" parentId="1537">ЛАДОГА</category>
+<category id="1564" parentId="1088">Масла технологические для производства резин</category>
+<category id="1565" parentId="1564">Газпром-Нефть</category>
+<category id="1104">Запчасти и прочее</category>
+<category id="1105" parentId="1104">Щетки Стеклоочестителя</category>
+<category id="1106" parentId="1105">BOSCH</category>
+<category id="1489" parentId="1105">AUTOBACS</category>
+<category id="1519" parentId="1105">DENSO</category>
+<category id="1605" parentId="1105">LYNX</category>
+<category id="1607" parentId="1105">VAG</category>
+<category id="1625" parentId="1105">AWM</category>
+<category id="1686" parentId="1105">WOG</category>
+<category id="1733" parentId="1105">LIVCAR</category>
+<category id="1797" parentId="1105">ENDUROVISION</category>
+<category id="1112" parentId="1104">Свечи зажигания</category>
+<category id="1113" parentId="1112">NGK</category>
+<category id="1285" parentId="1112">BOSCH</category>
+<category id="1603" parentId="1112">VAG</category>
+<category id="1114" parentId="1104">Перчатки</category>
+<category id="1115" parentId="1104">Хомуты</category>
+<category id="1116" parentId="1104">Клей</category>
+<category id="1162" parentId="1104">Тара</category>
+<category id="1259" parentId="1104">Акуммуляторы</category>
+<category id="1308" parentId="1104">Шприцы для смазки</category>
+<category id="1309" parentId="1104">Насосы бочковые</category>
+<category id="1319" parentId="1104">Автолампы</category>
+<category id="1320" parentId="1319">NARVA</category>
+<category id="1321" parentId="1319">OSRAM</category>
+<category id="1358" parentId="1319">Phillips</category>
+<category id="1696" parentId="1319">LYNX</category>
+<category id="1701" parentId="1319">PIAA</category>
+<category id="1734" parentId="1319">ClearLight</category>
+<category id="1359" parentId="1104">Прокладки сливной пробки</category>
+<category id="1500" parentId="1104">Инструмент</category>
+<category id="1505" parentId="1500">Наборы инструментов</category>
+<category id="1506" parentId="1500">Ключи рожковые накидные</category>
+<category id="1509" parentId="1104">Автоэлектроника</category>
+<category id="1510" parentId="1509">Батарейки</category>
+<category id="1559" parentId="1509">Предохранители</category>
+<category id="1585" parentId="1104">Тормозная система</category>
+<category id="1586" parentId="1585">Тормозные колодки</category>
+<category id="1737" parentId="1586">SpeedMate</category>
+<category id="1587" parentId="1585">Тормозные диски</category>
+<category id="1117">Фильтры</category>
+<category id="1118" parentId="1117">Маслянные </category>
+<category id="1119" parentId="1118">MANN-FILTER</category>
+<category id="1120" parentId="1118">SCT</category>
+<category id="1231" parentId="1118">BOSCH</category>
+<category id="1283" parentId="1118">FILTRON</category>
+<category id="1335" parentId="1118">VAG</category>
+<category id="1336" parentId="1118">MAZDA</category>
+<category id="1337" parentId="1118">GM</category>
+<category id="1338" parentId="1118">FORD</category>
+<category id="1339" parentId="1118">Mitsubishi</category>
+<category id="1340" parentId="1118">Peugeot-Citroen</category>
+<category id="1341" parentId="1118">NISSAN</category>
+<category id="1343" parentId="1118">TOYOTA</category>
+<category id="1351" parentId="1118">Renault</category>
+<category id="1514" parentId="1118">Fleetguard</category>
+<category id="1530" parentId="1118">Mahle/Knecht</category>
+<category id="1597" parentId="1118">JS Asakashi</category>
+<category id="1609" parentId="1118">LADA</category>
+<category id="1655" parentId="1118">LIVCAR</category>
+<category id="1672" parentId="1118">Hyundai/KIA</category>
+<category id="1675" parentId="1118">LYNX</category>
+<category id="1697" parentId="1118">UFI</category>
+<category id="1700" parentId="1118">BIG FILTER</category>
+<category id="1706" parentId="1118">AMD</category>
+<category id="1707" parentId="1118">SAKURA</category>
+<category id="1710" parentId="1118">FInwhale</category>
+<category id="1713" parentId="1118">IBERIS</category>
+<category id="1729" parentId="1118">Donaldson</category>
+<category id="1121" parentId="1117">Воздушные</category>
+<category id="1122" parentId="1121">MANN-FILTER</category>
+<category id="1123" parentId="1121">SCT</category>
+<category id="1230" parentId="1121">FILTRON</category>
+<category id="1354" parentId="1121">FORD</category>
+<category id="1532" parentId="1121">VAG</category>
+<category id="1533" parentId="1121">BOSCH</category>
+<category id="1543" parentId="1121">Mahle/Knecht</category>
+<category id="1598" parentId="1121">JS Asakashi</category>
+<category id="1600" parentId="1121">Big Filter</category>
+<category id="1610" parentId="1121">LADA</category>
+<category id="1656" parentId="1121">LIVCAR</category>
+<category id="1673" parentId="1121">Hyundai/KIA</category>
+<category id="1676" parentId="1121">LYNX</category>
+<category id="1698" parentId="1121">UFI</category>
+<category id="1708" parentId="1121">SAKURA</category>
+<category id="1714" parentId="1121">IBERIS</category>
+<category id="1124" parentId="1117">Топливные</category>
+<category id="1125" parentId="1124">MANN-FILTER</category>
+<category id="1126" parentId="1124">SCT</category>
+<category id="1355" parentId="1124">FORD</category>
+<category id="1515" parentId="1124">Fleetguard</category>
+<category id="1575" parentId="1124">Mahle/Knecht</category>
+<category id="1601" parentId="1124">Big Filter</category>
+<category id="1611" parentId="1124">LADA</category>
+<category id="1736" parentId="1124">FILTRON</category>
+<category id="1127" parentId="1117">Салонные</category>
+<category id="1128" parentId="1127">SCT</category>
+<category id="1154" parentId="1127">MANN-FILTER</category>
+<category id="1279" parentId="1127">FILTRON</category>
+<category id="1356" parentId="1127">FORD</category>
+<category id="1534" parentId="1127">BOSCH</category>
+<category id="1576" parentId="1127">Mahle/Knecht</category>
+<category id="1599" parentId="1127">JS Asakashi</category>
+<category id="1602" parentId="1127">Big Filter</category>
+<category id="1612" parentId="1127">LADA</category>
+<category id="1657" parentId="1127">LIVCAR</category>
+<category id="1674" parentId="1127">Hyundai/KIA</category>
+<category id="1677" parentId="1127">LYNX</category>
+<category id="1709" parentId="1127">SAKURA</category>
+<category id="1715" parentId="1127">IBERIS</category>
+<category id="1179" parentId="1117">Фильтр осушителя</category>
+<category id="1215">Мото масла(2T и 4T)</category>
+<category id="1219" parentId="1215">LIQUI MOLY</category>
+<category id="1226" parentId="1215">ZIC</category>
+<category id="1264" parentId="1215">MOTUL</category>
+<category id="1216" parentId="1215">Castrol</category>
+<category id="1512" parentId="1215">Elf</category>
+<category id="1527" parentId="1215">Mannol</category>
+<category id="1547" parentId="1215">3TON</category>
+<category id="1574" parentId="1215">Eni</category>
+<category id="1622" parentId="1215">KIXX</category>
+<category id="1671" parentId="1215">REPSOL</category>
+<category id="1695" parentId="1215">Ravenol</category>
+<category id="1771" parentId="1215">Valvoline</category>
+<category id="1772" parentId="1215">Rowe</category>
+<category id="1217">Тормозные жидкости</category>
+<category id="1633">Автоаксессуары</category>
+<category id="1634" parentId="1633">Аварийные принадлежности</category>
+<category id="1640" parentId="1634">Тросы буксировочные</category>
+<category id="1641" parentId="1634">Знак аварийной остановки</category>
+<category id="1635" parentId="1634">Наборы автомобилиста</category>
+<category id="1636" parentId="1634">Аптечки</category>
+<category id="1637" parentId="1633">Щетки для снега, скребки</category>
+<category id="1638" parentId="1633">Лопаты</category>
+<category id="1639" parentId="1633">Мешки для колес</category>
+<category id="1643" parentId="1633">Компрессоры автомобильные</category>
+<category id="1642" parentId="1633">Скотч, изолента</category>
+<category id="1644" parentId="1633">Канистры и воронки</category>
+<category id="1757">Аккумуляторы и принадлежности</category>
+<category id="1762" parentId="1757">Провода прикуривания</category>
+<category id="1763" parentId="1757">Аккумуляторные батареи</category>
+<category id="1776" parentId="1763">AFA</category>
+<category id="1777" parentId="1763">Contact</category>
+<category id="1778" parentId="1763">ENRUN</category>
+<category id="1765" parentId="1763">BOLK</category>
+<category id="1779" parentId="1763">EUROSTART</category>
+<category id="1766" parentId="1763">BOSCH</category>
+<category id="1780" parentId="1763">Fora</category>
+<category id="1781" parentId="1763">GLADIATOR</category>
+<category id="1767" parentId="1763">VARTA</category>
+<category id="1782" parentId="1763">GREENLER</category>
+<category id="1768" parentId="1763">TOPLA</category>
+<category id="1783" parentId="1763">Indigo-R</category>
+<category id="1784" parentId="1763">SOLITE</category>
+<category id="1785" parentId="1763">Sputnik</category>
+<category id="1786" parentId="1763">Tyumen</category>
+<category id="1787" parentId="1763">YUASA</category>
+<category id="1788" parentId="1763">АкТех</category>
+<category id="1764" parentId="1757">Зарядные и пусковые устройства для АКБ</category>
+<category id="1789">Лодочные масла</category>
+<category id="1790" parentId="1789">Моторные масла</category>
+<category id="1791" parentId="1790">Ravenol</category>
+<category id="1792" parentId="1790">MOTUL</category>
+<category id="1795" parentId="1790">Mannol</category>
+<category id="1793" parentId="1790">Rowe</category>
+<category id="1794" parentId="1790">Luqui Moly</category>
+<category id="1796" parentId="1790">Repsol</category>
+<category id="1803" parentId="1789">Трансмиссионные масла для лодок</category>
+<category id="1804" parentId="1803">Motul</category>
+</categories><offers>
+				<offer id="29971" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/osram/29971/</url>
+						<oldprice>27305.00</oldprice>
+						<price>25939.75</price>
+						
+					<categoryId>1321</categoryId>
+					<name><![CDATA[OSRAM D3S XENARC NIGHT BREAKER LASER +200% 66340XNLHCB 2 шт]]></name>
+					<param name="Артикул">66340XNLHCB</param>
+
+					<description>
+						<![CDATA[Osram 64210NBS NIGHT BREAKER SILVER Лампа H7 12V 55W PX26d&nbsp;&nbsp;&#43; 100&#37; яркая галогенная лампа OSRAM с оптимальным сроком службы. По сравнению с требованиями стандарта, она обеспечивает до 100&#37; больше яркости, образуемый световой луч до 130 м длиннее. Это позволяет распознавать препятствия, опасности и дорожные знаки раньше и реагировать на них быстрее. Кроме того, NIGHT BREAKER SILVER отличаются отличным соотношением цены и качества и современным дизайном с серебристым колпачком &#40;H4/H7/H11&#41;. Это идеальный выбор для водителей, придающих наибольшее значение эксплуатационным характеристикам и сроку службы автомобильной лампы.]]>
+					</description>
+				</offer>
+				
+				<offer id="18285" available="false">
+					<url>https://piteroils.ru/catalog/transmissionnye_masla/motul_3/transmissionnye_21/18285/</url>
+						<oldprice>980.00</oldprice>
+						<price>931</price>
+						
+					<categoryId>1461</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/232/400_400_1/232ed9f0ecf8e97ba2bd23a570708799.jpg</picture>
+					<name><![CDATA[100102 MOTUL HD SAE 80W-90  1л]]></name>
+					<param name="Вязкость">80W-90</param>
+<param name="Бренд">MOTUL</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Допуски">MIL-L-2105D</param>
+<param name="Спецификации">IAPI GL-4/GL-5</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">3374650011356</param>
+<param name="Артикул">100102</param>
+<param name="Применение">МКПП, Мосты, Дифференциалы</param>
+<param name="Высота">27</param>
+<param name="Глубина">13</param>
+<param name="Вес">0.9</param>
+<param name="Ширина">16</param>
+
+					<description>
+						<![CDATA[100102&nbsp;&nbsp;MOTUL HD SAE 80W-90&nbsp;&nbsp;1л ТРАНСМССИОННОЕ МАСЛО ДЛЯ ВЫСОКОНАГРУЖЕННЫХ КОРОБОК ПЕРЕДАЧ И МОСТОВ. <br />
+Все механические трансмиссии без систем ограниченного скольжения: коробки передач, мост/коробка, раздаточные коробки, гипоидные мосты без автоблокировки. Применяется при высоких нагрузках и низких скоростях сдвига или при средних нагрузках и высоких скоростях сдвига. Для коробок передач и мостов с автоблокировкой и для систем с ограниченным скольжением применяйте MOTUL 90 PA или HYPO BM LS. Для автоматических коробок передач применяйте MOTUL DEXRON II D или MOTUL ATF HD.]]>
+					</description>
+				</offer>
+				
+				<offer id="18286" available="false">
+					<url>https://piteroils.ru/catalog/transmissionnye_masla/motul_3/transmissionnye_21/18286/</url>
+						<oldprice>1915.00</oldprice>
+						<price>1819.25</price>
+						
+					<categoryId>1461</categoryId>
+					<name><![CDATA[100103  MOTUL HD SAE 80W-90 2л]]></name>
+					<param name="Вязкость">80W-90</param>
+<param name="Бренд">MOTUL</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Допуски">MIL-L-2105D</param>
+<param name="Спецификации">API GL4, GL5</param>
+<param name="Объем">2л</param>
+<param name="Штрихкод">3374650001852</param>
+<param name="Применение">МКПП, Мосты, Дифференциалы</param>
+
+					<description>
+						<![CDATA[Все механические трансмиссии без систем ограниченного скольжения: коробки скоростей, мост/коробка, коробки передач, гипоидные мосты без автоблокировки.<br />
+<br />
+Применяется при высоких нагрузках и низких скоростях сдвига или при средних нагрузках и высоких скоростях сдвига.<br />
+<br />
+Для коробок скоростей и мостов с автоблокировкой и для систем с ограниченным скольжением применяйте MOTUL 90 PA или HYPO BM LS.<br />
+<br />
+Для автоматических коробок скоростей применяйте MOTUL DEXRON II D или MOTUL TRANS. FLUID A.<br />
+<br />
+<br />
+Смазывающие способности масла максимально повышены для уменьшения трения. Выдерживает сверхдавление.<br />
+<br />
+Класс вязкости SAE 90 в соответствии с 20 часовыми испытаниями на сдвиг SAE J306. Обеспечивает отличную стойкость масляной пленки при высоких температурах. Снижает шум.<br />
+<br />
+Не агрессивно к цветним металлам.<br />
+<br />
+Противоизнашивающее, антикоррозийное, невспенивающееся.<br />
+<br />
+Рекомендации по применению<br />
+<br />
+Замена производится в соответствии с рекомендациями конструкторов или по собственному усмотрению.]]>
+					</description>
+				</offer>
+				
+				<offer id="18287" available="false">
+					<url>https://piteroils.ru/catalog/transmissionnye_masla/motul_3/transmissionnye_21/18287/</url>
+						<oldprice>3025.00</oldprice>
+						<price>2873.75</price>
+						
+					<categoryId>1461</categoryId>
+					<name><![CDATA[100112  MOTUL HD SAE 85W-140 2л]]></name>
+					<param name="Штрихкод">3374650011400</param>
+
+				</offer>
+				
+				<offer id="20344" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20344/</url>
+						<oldprice>3135.00</oldprice>
+						<price>2978.25</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/cdf/400_400_1/bdizwp5t1bqrtoxrmd6cfsa6m2388eaj.jpg</picture>
+					<name><![CDATA[11336UE2X2 PHILIPS Лампа светодиодная LED H3 12В/24В 6500К X2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H3 55W</param>
+<param name="Тип Лампы">LED</param>
+<param name="Штрихкод">8719018003324</param>
+<param name="Артикул">11336UE2X2</param>
+<param name="Напряжение">12-24V</param>
+<param name="Цветовая температура, K">6500K</param>
+
+					<description>
+						<![CDATA[11336UE2X2 PHILIPS Лампа светодиодная LED H3 12В/24В 6500К X2&nbsp;&nbsp;Новые светодиодные лампы Philips Ultinon Essential LED обеспечат наилучшее соотношение цены и качества. Они поставляются в компактном и полнофункциональном корпусе с двойной системой рассеивания тепла, обеспечивая высокую яркость, стильный внешний вид и совместимость с питанием 12 В и 24 В.<br />
+<br />
+Для придания автомобилю современного внешнего вида установите в фары светодиодные лампы Philips Ultinon Essential LED. Они излучают стильный белый свет с цветовой температурой до 6500 К, который позволит вам выделиться из толпы.<br />
+<br />
+Оптимальная производительность и несравненная долговечность светодиодных ламп головного освещения Philips Ultinon Essential LED делает их передовым решением на рынке. Благодаря двойной системе отвода тепла со встроенным вентилятором и радиатором из анодированного алюминия, эти светодиодные лампы более эффективно рассеивают тепло. Они будут работать на самом высоком уровне яркости в течение более долгого времени.<br />
+<br />
+Philips Ultinon Essential LED — это новый корпус со встроенным электронным блоком управления, обеспечивающим свободную посадку лампы в корпусе фары. Оцените простое подключение — такой корпус позволяет легко отделить центральное кольцо от верхней части без откручивания. Компактная конструкция ламп Philips Ultinon Essential LED делает их совместимыми с широким рядом автомобилей и упрощает профессионалам процесс установки.<br />
+<br />
+Philips Ultinon Essential LED идеально подходят для использования в различных транспортных средствах и совместимы с электрическими системами 12 В и 24 В.<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="20353" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20353/</url>
+						<oldprice>7810.00</oldprice>
+						<price>7419.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/e9d/400_400_1/e9de91864ecb69117e955842c68a7edb.jpg</picture>
+					<name><![CDATA[11342UE2X2 PHILIPS Лампа светодиодная LED H4 12В/24В 6500К X2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">LED</param>
+<param name="Артикул">11342UE2X2</param>
+<param name="Напряжение">12-24V</param>
+<param name="Цветовая температура, K">6500K</param>
+
+					<description>
+						<![CDATA[11342UE2X2 PHILIPS Лампа светодиодная LED H4 12В/24В 6500К X2 Новые светодиодные лампы Philips Ultinon Essential LED обеспечат наилучшее соотношение цены и качества. Они поставляются в компактном и полнофункциональном корпусе с двойной системой рассеивания тепла, обеспечивая высокую яркость, стильный внешний вид и совместимость с питанием 12 В и 24 В. <br />
+<br />
+Стильный белый свет для комфорта в поездках<br />
+Для придания автомобилю современного внешнего вида установите в фары светодиодные лампы Philips Ultinon Essential LED. Они излучают стильный белый свет с цветовой температурой до 6500 К, который позволит вам выделиться из толпы.<br />
+<br />
+Превосходное охлаждение за счет эффективного отвода тепла<br />
+Оптимальная производительность и несравненная долговечность светодиодных ламп головного освещения Philips Ultinon Essential LED делает их передовым решением на рынке. Благодаря двойной системе отвода тепла со встроенным вентилятором и радиатором из анодированного алюминия, эти светодиодные лампы более эффективно рассеивают тепло. Они будут работать на самом высоком уровне яркости в течение более долгого времени.]]>
+					</description>
+				</offer>
+				
+				<offer id="18852" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/18852/</url>
+						<oldprice>4150.00</oldprice>
+						<price>3942.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/436/400_400_1/43639a7279a5cafe5bb755a6763465f9.jpg</picture>
+					<name><![CDATA[11498XUWX2 PHILIPS Лампа севтодиодная X-tremeUltinon LED white P21W 2.7W 12/24V BA15S 6000K X2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">P21W</param>
+<param name="Тип Лампы">LED</param>
+<param name="Артикул">11498XUWX2</param>
+<param name="Напряжение">12-24V</param>
+<param name="Цветовая температура, K">6000K</param>
+
+					<description>
+						<![CDATA[PHILIPS Лампа севтодиодная X-tremeUltinon LED Высокая яркость и превосходный стиль<br />
+<br />
+Позаботьтесь о своей безопасности и внешнем виде автомобиля: установите светодиодные лампы Philips X-tremeUltinon gen2 [~P21W] для фонарей заднего хода с ярким светом. Эти мощные лампы с точно направленным световым лучом отличаются стильным современным дизайном.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />
+Лампы для фонарей заднего хода с эффектом дневного света &#40;6000 К&#41; обеспечивают улучшенную видимость<br />
+При движении задним ходом обзор сильно ограничен — в сидячем положении вы не можете видеть все, что происходит вокруг. В темное время суток выполнять такой маневр еще более опасно. Довольно часто происшествия случаются именно во время движения задним ходом. Светодиодные лампы для фонарей заднего хода от Philips с эффектом дневного света и цветовой температурой 6000 К гарантируют улучшенное освещение участка позади автомобиля и повышают тем самым вашу безопасность.]]>
+					</description>
+				</offer>
+				
+				<offer id="20852" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20852/</url>
+						<oldprice>7875.00</oldprice>
+						<price>7481.25</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/86a/400_400_1/86add812b4816998c764cc2e01f2bf8b.jpg</picture>
+					<name><![CDATA[11972UE2X2 PHILIPS Лампа светодиодная LED H7 12В/24В 6500К X2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7</param>
+<param name="Тип Лампы">LED</param>
+<param name="Артикул">11972UE2X2</param>
+<param name="Напряжение">12-24V</param>
+<param name="Цветовая температура, K">6500K</param>
+
+					<description>
+						<![CDATA[Новые светодиодные лампы Philips Ultinon Essential LED обеспечат наилучшее соотношение цены и качества. Они поставляются в компактном и полнофункциональном корпусе с двойной системой рассеивания тепла, обеспечивая высокую яркость, стильный внешний вид и совместимость с питанием 12 В и 24 В<br />
+<br />
+Стильный белый свет для комфорта в поездках<br />
+Для придания автомобилю современного внешнего вида установите в фары светодиодные лампы Philips Ultinon Essential LED. Они излучают стильный белый свет с цветовой температурой до 6500 К, который позволит вам выделиться из толпы.<br />
+<br />
+Превосходное охлаждение за счет эффективного отвода тепла<br />
+Оптимальная производительность и несравненная долговечность светодиодных ламп головного освещения Philips Ultinon Essential LED делает их передовым решением на рынке. Благодаря двойной системе отвода тепла со встроенным вентилятором и радиатором из анодированного алюминия, эти светодиодные лампы более эффективно рассеивают тепло. Они будут работать на самом высоком уровне яркости в течение более долгого времени.<br />
+<br />
+Компактный полнофункциональный корпус и простое подключение<br />
+Philips Ultinon Essential LED — это новый корпус со встроенным электронным блоком управления, обеспечивающим свободную посадку лампы в корпусе фары. Оцените простое подключение — такой корпус позволяет легко отделить центральное кольцо от верхней части без откручивания. Компактная конструкция ламп Philips Ultinon Essential LED делает их совместимыми с широким рядом автомобилей и упрощает профессионалам процесс установки.<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17257" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17257/</url>
+						<oldprice>1690.00</oldprice>
+						<price>1605.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/18e/400_400_1/18e1b2899d5dd87edb3ae6b8643a81bb.jpg</picture>
+					<name><![CDATA[12258XVGS2 Лампа H1 X-tremeVision G-force 12V 55W P14,5S 3500K S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н1 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900355208</param>
+<param name="Артикул">12258XVGS2</param>
+<param name="Напряжение">12V</param>
+<param name="Цветовая температура, K">3500K</param>
+
+					<description>
+						<![CDATA[Лампа OSRAM W5W]]>
+					</description>
+				</offer>
+				
+				<offer id="17283" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17283/</url>
+						<oldprice>2520.00</oldprice>
+						<price>2394</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/fea/400_400_1/feab371435460bcdfc1546994cb4dee8.jpg</picture>
+					<name><![CDATA[12342CVPBS2 PHILIPS Лампа галогеновая H4 ColorVision +60% синий 12V 60/55W P43t-38 S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900367935</param>
+<param name="Артикул">12342CVPBS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17290" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17290/</url>
+						<oldprice>1890.00</oldprice>
+						<price>1795.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/b38/400_400_1/b387546a3421f6765398df237146478e.jpg</picture>
+					<name><![CDATA[12342CVPGS2 PHILIPS Лампа галогеновая H4 ColorVision +60% зеленый 12V 60/55W P43t-38 S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900367874</param>
+<param name="Артикул">12342CVPGS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17103" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17103/</url>
+						<oldprice>1620.00</oldprice>
+						<price>1539</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/e1e/400_400_1/qu3iqd07v3v43qeyy4dtc1rcctt18cq4.jpg</picture>
+					<name><![CDATA[12342DVS2 PHILIPS Комплект ламп 12V H4 60/55W Dimond Vision]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8711500695734</param>
+<param name="Артикул">12342DVS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[12342DVS2 PHILIPS Комплект ламп 12V H4 60/55W Dimond Vision]]>
+					</description>
+				</offer>
+				
+				<offer id="17285" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17285/</url>
+						<oldprice>1455.00</oldprice>
+						<price>1382.25</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/71c/400_400_1/qjq0cfsiav6l5twnd3ys94n7hruajzdn.jpg</picture>
+					<name><![CDATA[12342VPS2 Лампа Philips Vision Plus + 60% H4 60/55W 2 шт.]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900399257</param>
+<param name="Артикул">12342VPS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[12342DVS2 PHILIPS Комплект ламп 12V H4 60/55W Dimond Vision для автомобильных фар обеспечивают на 60 &#37; улучшенный обзор: водитель может видеть дальше, благодаря чему повышаются безопасность и комфорт. Лампы VisionPlus — это высокая производительность и доступная цена. Правильный выбор современного требовательного водителя.<br />
+<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Свет лампы VisionPlus распространяется на 25 м дальше, чем у обычной лампы<br />
+Лампа Philips Vision Plus увеличивает зону освещения перед автомобилем на 25 м по сравнению с обычной лампой. Эти лампы излучают максимально мощный направленный свет. Мы всегда предлагаем только лучшие и самые эффективные световые решения, ведь мы знаем, что однажды благодаря качеству наших лам удастся спасти чью-то жизнь.<br />
+<br />
+Philips производит лучшую в своем классе автомобильную продукцию для рынка оригинальных комплектующих и послепродажного обслуживания автомобилей. Изделия изготавливаются из высококачественных материалов и соответствуют самым высоким стандартам, чтобы обеспечить максимальную безопасность и комфортное вождение. Вся продукция проходит тщательное тестирование, контроль и сертификацию &#40;ISO 9001, ISO 14001 и QSO 9000&#41; в соответствии с самыми высокими требованиями ECE. Вы действительно можете быть уверены в качестве изделий.<br />
+<br />
+Намного более комфортное и безопасное вождение<br />
+Лампа VisionPlus помогает улучшить реакцию водителя, так как он заранее видит препятствия и дорожные знаки. Ваши стоп-сигналы также будут заметны издалека благодаря более мощному свету. При скорости 100 км/ч водители могут сократить тормозной путь до 3 метров. Освещение — важнейшее условие безопасного вождения и главный фактор, который действительно помогает избежать несчастных случаев.]]>
+					</description>
+				</offer>
+				
+				<offer id="17813" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17813/</url>
+						<oldprice>1355.00</oldprice>
+						<price>1287.25</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/6c4/400_400_1/oayzx794ued0x3kcd6858eze0ieh1wvk.jpg</picture>
+					<name><![CDATA[12342XVBW Лампа Philips H4 X-tremeVision Moto +100% 12V 60/55W P43t-38 блистер]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8719018000569</param>
+<param name="Артикул">12342XVBW</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[До 100 &#37; более хорошая видимость на дороге<br />
+Благодаря улучшенной форме нити накаливания и применению специальной смеси газов лампы для фар X-tremeVision Moto обеспечивают до 100 &#37; более хорошую видимость.<br />
+<br />
+Лампы для мотоциклов Philips изготовлены из высококачественного кварцевого стекла<br />
+Кварцевое стекло, устойчивое к УФ-излучению, обладает более высокой прочностью &#40;по сравнению с тугоплавким стеклом&#41; и отличается высокой устойчивостью к перепадам температур и вибрации, что исключает возможность взрыва. Лампы Philips из кварцевого стекла &#40;нить накаливания 2650 ºC и стекло 800 ºC&#41; способны выдержать резкие колебания температуры. Лампы выдерживают высокое внутреннее давление, поэтому такое кварцевое стекло, устойчивое к УФ-излучению, обеспечивает более мощный свет.<br />
+<br />
+Мы соблюдаем высокие стандарты качества, установленные нормами ECE<br />
+Philips Automotive предлагает лучшие в классе продукты и услуги на рынке оригинальных комплектующих и послепродажного обслуживания автомобилей. Наши продукты производятся из высококачественных материалов и соответствуют самым высоким стандартам, чтобы обеспечить максимальную безопасность и комфортное вождения для автомобилистов. Вся продукция проходит тщательное тестирование, контроль и сертификацию &#40;ISO 9001, ISO 14001 и QSO 9000&#41; в соответствии с самыми высокими требованиями ECE.<br />
+<br />
+Повышенная надежность и долгий срок службы<br />
+&quot;Лампы Philips X-tremeVision Moto разработаны с применением передовых технологий для увеличения прочности и срока службы. Лампы наполнены особым газом, который предотвращает износ нити накаливания, продлевая срок службы ламп&quot;.<br />
+<br />
+Максимум яркости на дороге<br />
+Лампы X-tremeVision Moto отличаются оптимальной формой и наличием уникальной нити накаливания. Они производятся по современной технологии, обеспечивая максимальную производительность и яркий белый свет.<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17113" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17113/</url>
+						<oldprice>1370.00</oldprice>
+						<price>1301.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/68b/400_400_1/68b9aa3df545d84c8c07c546db0c5f51.jpg</picture>
+					<name><![CDATA[12342XVGS2 Philips X-tremeVision +130% H4 3700K 60/55W 2 шт.]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900355253</param>
+<param name="Артикул">12342XVGS2</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="19298" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/19298/</url>
+						<oldprice>2100.00</oldprice>
+						<price>1995</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/8a6/400_400_1/zjn4bxlmpkr5x43g85tkuwc4p9p0hst5.jpg</picture>
+					<name><![CDATA[12342XVPS2 Philips Лампа H4 X-treme Vision Pro150 2 шт.]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">Н4 60/55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8719018005670</param>
+<param name="Артикул">12342XVPS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[12342XVPS2 Philips Лампа H4 X-treme Vision Pro150 2 шт. Высокая яркость для дополнительной безопасности<br />
+<br />
+Лампы Philips X-tremeVision Pro150 сочетают в себе превосходную яркость и долговечность, которая ранее считалась недоступной для ламп с подобными характеристиками. Они обеспечивают необходимый обзор, чтобы вы и ваши близкие чувствовали безопасность на дороге.<br />
+<br />
+Видеть больше, чтобы водить безопаснее<br />
+Яркость ламп Philips X-tremeVision Pro150 увеличена на 150 &#37;&#40;1&#41;, благодаря чему обеспечивается превосходный обзор даже в темное время суток и при сложных погодных условиях. Более высокая яркость освещения и точность светового луча достигается за счет улучшенной конструкции нити накаливания и новой технологии изготовления кварцевого стекла Diamond Precision.<br />
+<br />
+До 450 часов использования при высокой производительности&#40;3&#41;<br />
+Новый метод производства позволил увеличить светопропускную способность кварцевого стекла Philips Diamond Precision и придать ему отличную стойкость к экстремальным температурам и давлению. Особая смесь благородных газов предотвращает износ нити накаливания. Это гарантирует дополнительную яркость и увеличение ресурса ламп до 450 часов &#40;для типа H7, H4: 540 ч&#41;, что является рекордом для ламп с такими характеристиками.<br />
+<br />
+Больше времени на обнаружение и избегание опасностей<br />
+Благодаря увеличению дальности светового луча до 70 м лампы Philips X-tremeVision Pro150 позволяют водителю быстрее реагировать на потенциальные опасности. Большее расстояние обзора гарантирует дополнительную безопасность для вас и ваших пассажиров.]]>
+					</description>
+				</offer>
+				
+				<offer id="16950" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/16950/</url>
+						<oldprice>1080.00</oldprice>
+						<price>1026</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/iblock/1f6/7mj49v1r3and7ufsk88zi4z6vklbbl9s.jpg</picture>
+					<name><![CDATA[12360B1 PHILIPS Лампа H8 12360 12V 35W]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H8 35W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8711500824165</param>
+<param name="Артикул">12360B1</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="18307" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/18307/</url>
+						<oldprice>730.00</oldprice>
+						<price>693.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/392/400_400_1/egd3c9fp0rqils7oucxoptvp3gvb2g5k.jpg</picture>
+					<name><![CDATA[12360C1 PHILIPS Лампа H8 12360 12V 35W]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H8 35W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8711500475824</param>
+<param name="Артикул">12360C1</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="16951" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/16951/</url>
+						<oldprice>945.00</oldprice>
+						<price>897.75</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/69b/400_400_1/74oqdym1le0fn3o7vjemse5opzflrxau.jpg</picture>
+					<name><![CDATA[12362PRB1 PHILIPS Лампа галогеновая H11 Vision +30% 12V 55W PGJ19-2B1]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H11 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900364286</param>
+<param name="Артикул">12362PRB1</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="21276" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/21276/</url>
+						<oldprice>665.00</oldprice>
+						<price>631.75</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[12362PRC1 PHILIPS Лампа галогеновая H11 Vision +30% 12V 55W PGJ19-2C1]]></name>
+					<param name="Штрихкод">8727900364309</param>
+<param name="Артикул">12362PRC1</param>
+
+				</offer>
+				
+				<offer id="20345" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20345/</url>
+						<oldprice>2610.00</oldprice>
+						<price>2479.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/d24/400_400_1/d242b1dda5a2ea9f41e087f219c96c15.jpg</picture>
+					<name><![CDATA[12362WHVB1 PHILIPS Лампа галогеновая H11 WhiteVision 12V 55W PGJ19-2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H11 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900374698</param>
+<param name="Артикул">12362WHVB1</param>
+<param name="Напряжение">12V</param>
+<param name="Цветовая температура, K">3700K</param>
+
+					<description>
+						<![CDATA[12362WHVB1 PHILIPS Лампа галогеновая H11 WhiteVision 12V 55W PGJ19-2&nbsp;&nbsp;Лампы Philips WhiteVision с эффектом яркого белого ксенонового света для фар головного освещения обеспечивают великолепную видимость за рулем. Яркость белого света значительно увеличена. WhiteVision — безупречное сочетание стиля и безопасности.<br />
+<br />
+Лампы головного освещения Philips WhiteVision до 3700 К мгновенно рассеивают темноту ярким лучом чистого белого света. Эффективное освещение для максимального комфорта за рулем.<br />
+<br />
+Лампы головного освещения Philips WhiteVision превосходят по характеристикам любые автомобильные лампы с синим светом. Это лучший выбор для водителей, которым не нужен компромисс между стилем и безопасностью. Обладая высокой цветовой температурой ксеноновых ламп и стильным белым цоколем, лампы WhiteVision идеально подходят для головного освещения. Запатентованная технология покрытия Philips 3-го поколения впервые обеспечивает по-настоящему белый свет ламп WhiteVision и является шедевром эволюции.<br />
+<br />
+Кварцевое стекло, устойчивое к УФ-излучению, обладает более высокой прочностью &#40;по сравнению с тугоплавким стеклом&#41; и отличается высокой устойчивостью к перепадам температур и вибрации, что исключает неисправности на раннем сроке использования. Лампы Philips из кварцевого стекла, устойчивого к УФ-излучению, выдерживают более высокое внутреннее давление и обеспечивают более яркий свет и долгий срок службы.<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17284" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17284/</url>
+						<oldprice>100.00</oldprice>
+						<price>95</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/980/400_400_1/89benhfk88qllyz57s4iv61wgut6ub1f.jpg</picture>
+					<name><![CDATA[12516CP PHILIPS Лампа 12V W1,2W 1,2W 1шт]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">W1.2W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8711500481542</param>
+<param name="Артикул">12516CP</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[Стандартные лампы для салона и сигнальные лампы 12516CP<br />
+Безопасность и уверенность на дороге<br />
+<br />
+Cигнальным лампам Philips отдают предпочтение крупнейшие производители автомобилей. Лучшее в своем классе качество по доступной цене.<br />
+<br />
+Philips соблюдаем высокие стандарты качества, установленные нормами ECE<br />
+Philips производит лучшую в своем классе автомобильную продукцию для рынка оригинальных комплектующих и послепродажного обслуживания автомобилей. Изделия изготавливаются из высококачественных материалов и соответствуют самым высоким стандартам, чтобы обеспечить максимальную безопасность и комфортное вождение. Вся продукция проходит тщательное тестирование, контроль и сертификацию &#40;ISO 9001, ISO 14001 и QSO 9000&#41; в соответствии с самыми высокими требованиями ECE. Вы действительно можете быть уверены в качестве изделий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17129" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17129/</url>
+						<oldprice>4940.00</oldprice>
+						<price>4693</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/763/400_400_1/763cbde519fdb92f3129297a3ce6e359.jpg</picture>
+					<name><![CDATA[127998000KX2 PHILIPS Лампа светодиодная 12V W5W 1W 8000K X-tremeUltinon LED 2шт.]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">W5W</param>
+<param name="Тип Лампы">LED</param>
+<param name="Штрихкод">8727900395983</param>
+<param name="Артикул">127998000KX2</param>
+<param name="Напряжение">12V</param>
+<param name="Цветовая температура, K">8000К</param>
+
+					<description>
+						<![CDATA[Лампа светодиодная PHILIPS T10 X-tremeVision LED 8000K, W5W 12V 1W, 2 шт, 127998000KX2]]>
+					</description>
+				</offer>
+				
+				<offer id="17102" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17102/</url>
+						<oldprice>2895.00</oldprice>
+						<price>2750.25</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/89a/400_400_1/x0y3t7ym08q901892l6ucrxvl1oeqrdi.jpg</picture>
+					<name><![CDATA[12972DVS2 PHILIPS Комплект ламп 12V H7 55W PX26d Dimond Vision]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8711500697479</param>
+<param name="Артикул">12972DVS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[12972DVS2 PHILIPS Комплект ламп 12V H7 55W PX26d Dimond Vision]]>
+					</description>
+				</offer>
+				
+				<offer id="16949" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/16949/</url>
+						<oldprice>1485.00</oldprice>
+						<price>1410.75</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/ed5/400_400_1/bk6o17y77u55gg76i37oenld73uo9rs6.jpg</picture>
+					<name><![CDATA[12972LLECOS2 PHILIPS Лампа H7 12V 55W S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900362596</param>
+<param name="Артикул">12972LLECOS2</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="18530" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/18530/</url>
+						<oldprice>1860.00</oldprice>
+						<price>1767</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/2a7/400_400_1/htg94vfa1qk03ickeiwqpd12wxy6k9l8.jpg</picture>
+					<name><![CDATA[12972VPS2 PHILIPS Лампа галогеновая H7 VisionPlus +60% 12V 55W PX26d S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900399387</param>
+<param name="Артикул">12972VPS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[Лампы Philips VisionPlus для автомобильных фар обеспечивают на 60 &#37; улучшенный обзор: водитель может видеть дальше, благодаря чему повышаются безопасность и комфорт. Лампы VisionPlus — это высокая производительность и доступная цена. Правильный выбор современного требовательного водителя.]]>
+					</description>
+				</offer>
+				
+				<offer id="16960" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/16960/</url>
+						<oldprice>4810.00</oldprice>
+						<price>4569.5</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/dfb/400_400_1/dfb270decabd4438fade06d6d9f2f766.jpg</picture>
+					<name><![CDATA[12972XV+S2 Philips X-treme Vision +130% H7 3700K 55W 2 шт]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900371703</param>
+<param name="Артикул">12972XV+S2</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="17101" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/17101/</url>
+						<oldprice>4025.00</oldprice>
+						<price>3823.75</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/ef6/400_400_1/0wg7ipoy3u5iip4148qewujjjv34vdu1.jpg</picture>
+					<name><![CDATA[12972XVGS2 PHILIPS Лампа H7 X-tremeVision G-force 12V 55W PX26d 3500K S2]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8727900355413</param>
+<param name="Артикул">12972XVGS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[12972XVGS2 PHILIPS Лампа H7 X-tremeVision G-force 12V 55W PX26d 3500K S2<br />
+<br />
+снято с производства]]>
+					</description>
+				</offer>
+				
+				<offer id="20712" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20712/</url>
+						<oldprice>2980.00</oldprice>
+						<price>2831</price>
+						
+					<categoryId>1358</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/5be/400_400_1/60pxdpmey73ps2uy3bwl3l9mz6mf9hpo.jpg</picture>
+					<name><![CDATA[12972XVPS2 Philips H7 X-treme Vision Pro150 S2 2шт]]></name>
+					<param name="Бренд">PHILIPS</param>
+<param name="Цоколь">H7 55W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">8719018005694</param>
+<param name="Артикул">12972XVPS2</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[Лампы Philips X-tremeVision Pro150 сочетают в себе превосходную яркость и долговечность, которая ранее считалась недоступной для ламп с подобными характеристиками. Они обеспечивают необходимый обзор, чтобы вы и ваши близкие чувствовали безопасность на дороге.<br />
+<br />
+Видеть больше, чтобы водить безопаснее<br />
+Яркость ламп Philips X-tremeVision Pro150 увеличена на 150 &#37;&#40;1&#41;, благодаря чему обеспечивается превосходный обзор даже в темное время суток и при сложных погодных условиях. Более высокая яркость освещения и точность светового луча достигается за счет улучшенной конструкции нити накаливания и новой технологии изготовления кварцевого стекла Diamond Precision.<br />
+<br />
+До 450 часов использования при высокой производительности&#40;3&#41;<br />
+Новый метод производства позволил увеличить светопропускную способность кварцевого стекла Philips Diamond Precision и придать ему отличную стойкость к экстремальным температурам и давлению. Особая смесь благородных газов предотвращает износ нити накаливания. Это гарантирует дополнительную яркость и увеличение ресурса ламп до 450 часов, что является рекордом для ламп с такими характеристиками.<br />
+<br />
+Больше времени на обнаружение и избегание опасностей<br />
+Благодаря увеличению дальности светового луча до 70 м лампы Philips X-tremeVision Pro150 позволяют водителю быстрее реагировать на потенциальные опасности. Большее расстояние обзора гарантирует дополнительную безопасность для вас и ваших пассажиров.]]>
+					</description>
+				</offer>
+				
+				<offer id="20358" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20358/</url>
+						<oldprice>2995.00</oldprice>
+						<price>2845.25</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13336MDBVS2 PHILIPS Лампа галогеновая H3 PK22s 24V 70W 2 шт.]]></name>
+					<param name="Артикул">13336MDBVS2</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="20359" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20359/</url>
+						<oldprice>1950.00</oldprice>
+						<price>1852.5</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13342MDBVS2 PHILIPS Лампа галогеновая H4 13342 MDBV 24V 75/70W P43T-38 S2]]></name>
+					<param name="Артикул">13342MDBVS2</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="29661" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/29661/</url>
+						<oldprice>465.00</oldprice>
+						<price>441.75</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13620C1 PHILIPS Лампа накаливания для грузовых авто R2 24V 55/50W P45T-41]]></name>
+					<param name="Артикул">13620C1</param>
+
+				</offer>
+				
+				<offer id="29593" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/29593/</url>
+						<oldprice>110.00</oldprice>
+						<price>104.5</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13844CP PHILIPS Лампа накаливания 24V C5W 5W SV8,5 PHILIPS Standard 1 шт]]></name>
+					<param name="Артикул">13844CP</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="29594" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/29594/</url>
+						<oldprice>50.00</oldprice>
+						<price>47.5</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13929CP PHILIPS Лампа 24V T4W 4W PHILIPS 1 шт. картон 13929CP]]></name>
+					<param name="Артикул">13929CP</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="20476" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/phillips/20476/</url>
+						<oldprice>4470.00</oldprice>
+						<price>4246.5</price>
+						
+					<categoryId>1358</categoryId>
+					<name><![CDATA[13972MDBVS2 PHILIPS Лампа галогеновая H7 24V 70W PX26d  2 шт.]]></name>
+					<param name="Артикул">13972MDBVS2</param>
+
+					<description>
+						<![CDATA[Инновационные цветные автомобильные лампы сертифицированы для использования в автомобильных фарах. Создайте стильное освещение, излучая безопасный белый свет!<br />
+<br />
+Лампы ColorVision соответствуют всем нормам ECE и имеют сертификат, разрешающий их использование на дорогах. Храните его в машине, куда бы вы ни отправились.<br />
+<br />
+До 60 &#37; больше белого света — высокая освещенность дороги.<br />
+Благодаря особой технологии лампы Philips ColorVision обеспечивают до 60 &#37; лучшую видимость по сравнению с другими стандартными лампами. Лампы обеспечивают высокий уровень освещенности дороги и создают необычный цветной эффект.<br />
+Специальное разработанное Philips покрытие предохраняет фары от вредного ультрафиолетового излучения, что делает кварцевое стекло Philips идеальным вариантом для всех условий вождения и гарантирует его долговечность.<br />
+Автомобильные лампы Philips отличаются высокой влагостойкостью<br />
+Только лампа из кварцевого стекла &#40;нить накаливания 2650 °C, стекло 800 °C&#41; может во включенном состоянии противостоять резким перепадам температуры — например, при попадании капли холодной воды на горячую лампу, если вы проедете по воде с поврежденным корпусом фары.<br />
+<br />
+Больше света для быстрой реакции на дороге<br />
+Доказано, что хорошая видимость улучшает реакцию водителя. ColorVision обеспечивают видимость на 60 &#37; лучше или на 25 метров дальше &#40;по сравнению с обычными лампами&#41;. Теперь вы будете готовы к любым ситуациям на дороге!<br />
+<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="29728" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/29728/</url>
+						<oldprice>85.00</oldprice>
+						<price>80.75</price>
+						
+					<categoryId>1320</categoryId>
+					<name><![CDATA[17035  Лампа панели приборов NARVA 2V 1.2W]]></name>
+					<param name="Артикул">17035</param>
+
+				</offer>
+				
+				<offer id="20796" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/20796/</url>
+						<oldprice>120.00</oldprice>
+						<price>114</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/9c0/400_400_1/u20hl93v65afydcmst6rj24xgcdq2up7.jpg</picture>
+					<name><![CDATA[17169 Лампа NARVA 12V WY5W 5W, желтая]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">WY5W</param>
+<param name="Штрихкод">4013790942050</param>
+<param name="Артикул">17169</param>
+<param name="Напряжение">12V</param>
+
+					<description>
+						<![CDATA[17169 Лампа NARVA 12V WY5W 5W <br />
+<br />
+регулярное тестирование ламп по международным стандартам &#40;ISO 9001, ISO/TS 16949, DIN EN ISO 14001, стандарт ECE №37&#41;;<br />
+<br />
+• соответствие продукции и рабочих процессов критериям OEM;<br />
+<br />
+• соблюдение высочайших стандартов качества;<br />
+<br />
+• немецкая торговая марка с 65-летним опытом работы в качестве ведущего производителя;<br />
+<br />
+• постоянное инвестирование в разработку новых продуктов и процессов.]]>
+					</description>
+				</offer>
+				
+				<offer id="16299" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/16299/</url>
+						<oldprice>60.00</oldprice>
+						<price>57</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/2bf/400_400_1/cxwxloxtwmj1pq5jip3dc8x9h8jj7j70.jpg</picture>
+					<name><![CDATA[17171 Лампа NARVA R5W 12V 5W NVA]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">R5W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">4013790234056</param>
+<param name="Артикул">17171</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="16489" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/16489/</url>
+						<oldprice>55.00</oldprice>
+						<price>52.25</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/8cc/400_400_1/i62m0aabn2r2hfdd9kundv0jqjjf19m1.jpg</picture>
+					<name><![CDATA[17177 Лампа NARVA 12V W5W 5W]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">W5W</param>
+<param name="Штрихкод">4013790235053</param>
+<param name="Артикул">17177</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="16672" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/16672/</url>
+						<oldprice>60.00</oldprice>
+						<price>57</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/7df/400_400_1/0bncob2yafnjo0zjv896a20g3n83v8ak.jpg</picture>
+					<name><![CDATA[17635 Лампа NARVA P21W, 12V NVA CP]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">4013790257055</param>
+<param name="Артикул">17635</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="16808" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/16808/</url>
+						<oldprice>70.00</oldprice>
+						<price>66.5</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/afc/400_400_1/d283zo8oze5wb3lmuhdem3dtkpkstl5t.jpg</picture>
+					<name><![CDATA[17916 Лампа NARVA 12V P21/5W 21/5W  1 шт]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">P21/5W 21/5W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">4013790268051</param>
+<param name="Артикул">17916</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="16488" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/16488/</url>
+						<oldprice>155.00</oldprice>
+						<price>147.25</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/386/400_400_1/gwvjcd5qvnuxa7ninnbr73clg8mgy6l4.jpg</picture>
+					<name><![CDATA[17919 Лампа NARVA 12V W21/5W 21/5W]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">W21/5W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">4013790982056</param>
+<param name="Артикул">17919</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="17355" available="true">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/17355/</url>
+						<oldprice>210.00</oldprice>
+						<price>199.5</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/5f9/400_400_1/lizihi2p8lhsfv4retedmixkt20r8w3t.jpg</picture>
+					<name><![CDATA[17945 Лампа NARVA P27/7W 12V W2,5x16q]]></name>
+					<param name="Бренд">OSRAM</param>
+<param name="Цоколь">P27/7W</param>
+<param name="Тип Лампы">Лампа накаливания</param>
+<param name="Штрихкод">4013790996053</param>
+<param name="Артикул">17945</param>
+<param name="Напряжение">12V</param>
+
+				</offer>
+				
+				<offer id="17929" available="false">
+					<url>https://piteroils.ru/catalog/zapchasti_i_prochee/avtolampy/narva/17929/</url>
+						<oldprice>6045.00</oldprice>
+						<price>5742.75</price>
+						
+					<categoryId>1320</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/aa5/400_400_1/aa5b8a2da6895f7e6e0177d81e1a01db.png</picture>
+					<name><![CDATA[18033 Лампа NARVA LED H7 RPL2 12B/24B 6500К X2]]></name>
+					<param name="Бренд">NARVA</param>
+<param name="Цоколь">H7 24W</param>
+<param name="Артикул">18033</param>
+<param name="Напряжение">12-24V</param>
+
+					<description>
+						<![CDATA[Водители, которые хотят установить светодиодные лампы, теперь могут приобрести высокопроизводительные лампы головного освещения Narva Range Performance LED со следующими преимуществами:<br />
+<br />
+<br />
+<br />
+- Яркий белый свет 6500 К, придающий автомобилю стильный внешний вид<br />
+<br />
+- Компактный дизайн для простого подключения и использования<br />
+<br />
+- Надежная работа с двойным отводом тепла<br />
+<br />
+- Точный световой луч для повышения безопасности<br />
+<br />
+- Совместимо с большинством автомобилей и грузовиков]]>
+					</description>
+				</offer>
+				
+				<offer id="14693" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ochistiteli/14693/</url>
+						<oldprice>225.00</oldprice>
+						<price>213.75</price>
+						
+					<categoryId>1056</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/0a1/400_400_1/0a1aa7f433c2112429d1a7f5273a8f76.jpg</picture>
+					<name><![CDATA[3061 BBF Очиститель тормозов (аэр) 505мл]]></name>
+					<param name="Бренд">BBF</param>
+<param name="Объем">0.5л</param>
+<param name="Штрихкод">4603551604190</param>
+<param name="Артикул">3061</param>
+
+					<description>
+						<![CDATA[Очиститель тормозов BBF, спрей 505 мл —&nbsp;&nbsp;очиститель тормозных механизмов и деталей сцепления, предназначен удаления любых инородных веществ с тормозов.<br />
+<br />
+Характеристики и преимущества:<br />
+Удаляет самые разнообразные вещества: не только тормозную жидкость, но и грязь, битум, различные масла, смолы, а также случайно попавший клей или герметик;<br />
+Обладает нейтральным запахом;<br />
+Не содержит ацетон.<br />
+&quot;Аверанс&quot; представляет широкий ассортимент продукции, используемой в малярно-кузовных работах, а так же автокосметики, очистителей, прочей автохимии и шиномонтажнойпродукции для автоиндустрии и промышленных предприятий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17995" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/17995/</url>
+						<oldprice>80.00</oldprice>
+						<price>76</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/iblock/fff/fff8e9957f64401a68dd24b837bef555.jpg</picture>
+					<name><![CDATA[3TON ST-101 Масло 2Т п/с (красн.)ТВ с доз. Country (100мл)-55296]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Спецификации">API TB</param>
+<param name="Объем">0.1л</param>
+<param name="Штрихкод">4607030882673</param>
+<param name="Артикул">55296</param>
+
+					<description>
+						<![CDATA[Применяется для двухтактных двигателей. Предназначено для систем с инжекторной подачей масла или систем, работающих на смеси масла с топливом. Специальные добавки предотвращают формирование отложений на поршнях, приводящих к залипанию компрессионных колец и обеспечивают гладкую работу двигателя. При использовании масла резко снижается содержание вредных веществ в выхлопных газах. 3TON ST-101 рекомендовано к применению для всех типов двухтактных двигателей: навесных лодочных моторов, мопедов, мотороллеров, гидроциклов, снегоходов, снегоуборочных машин, генераторов, мотобуров, мотоножниц, а также газонокосилок и бензопил. Масло смешивается с топливом в пропорции 1:50 или в пропорции, рекомендуемой производителем двигателя.]]>
+					</description>
+				</offer>
+				
+				<offer id="17614" available="true">
+					<url>https://piteroils.ru/catalog/industrialnye_smazochnye_materialy/tsepnoe_maslo/3ton_2/17614/</url>
+						<oldprice>240.00</oldprice>
+						<price>228</price>
+						
+					<categoryId>1539</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/743/400_400_1/743ca70de5727607b12f0d46624c8de9.jpg</picture>
+					<name><![CDATA[3TON ST-500 Сountry Масло цепное 1л  40234]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030881355</param>
+<param name="Артикул">40234</param>
+
+					<description>
+						<![CDATA[Универсальное цепное масло на минеральной основе предназначено для смазывания пильных цепей, шин и ведущей звездочки. Содержит комплекс специальных присадок, придающих маслу уникальные свойства. Легко проникает внутрь и эффективно защищает от коррозии, образуя устойчивую масляную пленку. Снижает вибрации пильной цепи. В результате низкого коэффициента испарения и трения, обеспечивает дополнительный резерв мощности и увеличивает срок службы смазываемых деталей. Благодаря хорошей липкости позволяет предотвратить стекание по каплям и обеспечивает экономное расходование. Не имеет резкого запаха и не образует отложений.]]>
+					</description>
+				</offer>
+				
+				<offer id="18549" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/18549/</url>
+						<oldprice>230.00</oldprice>
+						<price>218.5</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/04a/400_400_1/04a5793ca1507044e5a1e7488c9bc0c0.jpg</picture>
+					<name><![CDATA[3TON ST-501 Сountry Масло двухтактное минеральное ТВ 1л 40236]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Спецификации">API TB</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030889023</param>
+<param name="Артикул">40236</param>
+
+					<description>
+						<![CDATA[Моторное масло Country 2Т ST-505 TC-W3 разработано для 2-тактных подвесных моторов. Применяется в двигателях моторных лодок, гидроциклов и другой мототехники с водяным охлаждением. Предотвращает образование отложений в камере сгорания и выпускном тракте, а также калильное зажигание. Обладает превосходной текучестью и растворимостью, легко смешивается с топливом. Защищает двигатель от коррозии во время длительного периода консервации. Применяется в смеси с топливом в пропорции 1:100, если иное не предписано производителем. Безопасно для окружающей среды.]]>
+					</description>
+				</offer>
+				
+				<offer id="18494" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/18494/</url>
+						<oldprice>265.00</oldprice>
+						<price>251.75</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/86c/400_400_1/86ce6cbe114e27c9d1548eb141c63ddb.jpg</picture>
+					<name><![CDATA[3TON ST-502 Масло двухтактное полусин ТC Country (1 л) 40238]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Полусинтетика</param>
+<param name="Спецификации">API TC</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030889047</param>
+<param name="Артикул">40238</param>
+
+					<description>
+						<![CDATA[3TON ST-502 Масло двухтактное полусин ТC Country &#40;1 л&#41; Полусинтетическое моторное масло Country с добавлением многофункционального пакета присадок последнего поколения разработано для использования в современных двухтактных двигателях бензопил, триммеров, культиваторов, генераторов, снегоуборочных машин, снегоходов, мотоциклов, скутеров, лодочных моторов и другой техники с объемом двигателя до 500 см?. Эффективно смазывая трущиеся детали, предотвращает залипание колец. Противоизносные свойства продлевают ресурс работы двигателя, образуя надежную защитную пленку. Предотвращает от образования отложений, защищает от загрязнения свечей, поверхностного зажигания, износа, коррозии, забивания выхлопного коллектора и пригорания поршневых колец.]]>
+					</description>
+				</offer>
+				
+				<offer id="21013" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/21013/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/fa4/400_400_1/q2gpfvypxnoqgzjzij4f2vbmczb9e8w8.jpg</picture>
+					<name><![CDATA[3TON ST-503 Масло 4-такт SAE 30 SG/CD 1л 40240]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030889061</param>
+<param name="Артикул">40240</param>
+
+					<description>
+						<![CDATA[3TON ST-503 Масло 4-такт SAE 30 SG/CD 1л Высококачественное моторное масло разработано специально для применения в современных 4-тактных двигателях газонокосилок, культиваторов, генераторов, мотоблоков, мини-тракторов и другой техники. Добавление в состав многофункционального пакета присадок последнего поколения придает маслу уникальные свойства, продлевая ресурс работы двигателя и поддерживая его чистоту. Масло обеспечивает антикоррозионные и противоизносные свойства. Охлаждает детали двигателя и уменьшает шум при работе.]]>
+					</description>
+				</offer>
+				
+				<offer id="17982" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/17982/</url>
+						<oldprice>635.00</oldprice>
+						<price>603.25</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/0f6/400_400_1/0f6ecd162c01e2c3446aa890f1297ab2.jpg</picture>
+					<name><![CDATA[3TON ST-505 Масло двухтактное мин ТC-W3 Country (1 л) 40245]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Спецификации">TC-W3</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030881386</param>
+<param name="Артикул">40245</param>
+
+					<description>
+						<![CDATA[Моторное масло Country 2Т ST-505 TC-W3 разработано для 2-тактных подвесных моторов. Применяется в двигателях моторных лодок, гидроциклов и другой мототехники с водяным охлаждением. Предотвращает образование отложений в камере сгорания и выпускном тракте, а также калильное зажигание. Обладает превосходной текучестью и растворимостью, легко смешивается с топливом. Защищает двигатель от коррозии во время длительного периода консервации. Применяется в смеси с топливом в пропорции 1:100, если иное не предписано производителем. Безопасно для окружающей среды.]]>
+					</description>
+				</offer>
+				
+				<offer id="14727" available="true">
+					<url>https://piteroils.ru/catalog/industrialnye_smazochnye_materialy/kompressornye/3ton/14727/</url>
+						<oldprice>280.00</oldprice>
+						<price>266</price>
+						
+					<categoryId>1161</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/f21/400_400_1/f21f18f490cab9825e388fe1d3cceec8.jpg</picture>
+					<name><![CDATA[3TON ST-506 Сountry Масло компрессорное GTD 250 VG-100 1л 40221]]></name>
+					<param name="Вязкость">ISO 100</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030881522</param>
+<param name="Артикул">40221</param>
+
+					<description>
+						<![CDATA[Масло компрессорное COMPRESSOR OIL GTD 250 VG-100 рекомендовано к применению в передвижных и стационарных поршневых компрессорах с рабочей температурой до &#43;200оС, включая раздельную смазку цилиндров в одноступенчатых и многоступенчатых поршневых компрессорах.<br />
+Входящий в состав масла сбалансированный комплекс беззольных присадок обеспечивает стойкость к окислению, противозадирные свойства и защиту от коррозии. Масло обладает низкой склонностью к нагарообразованию на поршнях, поршневых кольцах и клапанах, улучшенными пусковыми свойствами в том числе и при низких температурах.<br />
+Идеально для работы в тяжелых условиях эксплуатации. Снижает риск возгорания и взрыва.]]>
+					</description>
+				</offer>
+				
+				<offer id="17903" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/17903/</url>
+						<oldprice>290.00</oldprice>
+						<price>275.5</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/376/400_400_1/ua9zl449lchq67fn9ngj47glovwu03z3.jpg</picture>
+					<name><![CDATA[3TON ST-507 Масло двухтактное мин ТВ Country (1л) 55324]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030882949</param>
+<param name="Артикул">55324</param>
+
+					<description>
+						<![CDATA[Тип масла: Минеральное<br />
+Применяется для двухтактных моторов с воздушным<br />
+или водяным охлаждением, эксплуатируемых в<br />
+тяжелых условиях или на высокоскоростных режимах.]]>
+					</description>
+				</offer>
+				
+				<offer id="17662" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/17662/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/cb8/400_400_1/cb812ebcca8ff80176dc1b36bd7990f9.jpg</picture>
+					<name><![CDATA[3TON ST-508 Масло 2Т минеральное ТВ с доз. Country (1 л) 55263]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Цвет">Красный</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030882277</param>
+<param name="Артикул">55263</param>
+
+					<description>
+						<![CDATA[Минеральное масло Country 2Т ST-508 ТВ в эргономичной упаковке имеет дозатор, встроенный в канистру, что значительно облегчает дозировку масла. Предназначено для систем с инжекторной подачей масла или систем, работающих на смеси масла с топливом. Рекомендовано к применению для всех типов двухтактных двигателей: навесных лодочных моторов, мопедов, а также газонокосилок и бензопил. Масло смешивается с топливом в пропорции 1:50 или в пропорции, рекомендуемой производителем двигателя.]]>
+					</description>
+				</offer>
+				
+				<offer id="17663" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/17663/</url>
+						<oldprice>295.00</oldprice>
+						<price>280.25</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/iblock/2c8/2c868ddfd0dce616cf03588e39badfba.jpeg</picture>
+					<name><![CDATA[3TON ST-509 Масло 2Т п/с (красн.)ТВ с доз. Country (1 л) 55264]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Цвет">Красный</param>
+<param name="Тип масла">Полусинтетика</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030882260</param>
+<param name="Артикул">55264</param>
+
+					<description>
+						<![CDATA[Дозатор, встроенный в канистру, облегчает дозировку масла. Применяется для двухтактных моторов с воздушным или водяным охлаждением, эксплуатируемых в тяжелых условиях или на высокоскоростных режимах. Специальный комплекс присадок гарантирует чистоту деталей мотора и превосходную защиту от износа и коррозии. При использовании масла Country 2T резко снижается содержание вредных веществ в выхлопных газах. Масло Country 2T рекомендовано к применению для всех типов лодочных моторов и гидроциклов с совмещенной или раздельной системой смазки. Масло смешивается с топливом в пропорции 1:50 или в пропорции, рекомендуемой производителем двигателя.]]>
+					</description>
+				</offer>
+				
+				<offer id="21014" available="true">
+					<url>https://piteroils.ru/catalog/moto_masla_2t_i_4t/3ton_3/21014/</url>
+						<oldprice>300.00</oldprice>
+						<price>285</price>
+						
+					<categoryId>1547</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/5c4/400_400_1/5c42b408a23dd2a18c6791476e1693c8.jpg</picture>
+					<name><![CDATA[3TON ST-510 Масло 2Т минеральное ТВ (1 л) 55325]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Тип масла">Минеральное</param>
+<param name="Спецификации">API TB</param>
+<param name="Объем">1л</param>
+<param name="Штрихкод">4607030882956</param>
+<param name="Артикул">ST-510/55325</param>
+<param name="Применение">Двигатель</param>
+
+					<description>
+						<![CDATA[Высококачественное двухтактное масло на минеральной основе, специально разработанное под высокие требования современной импортной техники HSQ с двухтактными двигателями объемом до 200 куб.см: бензопилы, триммеры, комбисистемы, бензорезы, культиваторы, генераторы, а также для техники других производителей – снегоуборочные машины, снегоходы, мотоциклы, скутера, лебедки. Используется в большинстве высокопроизводительных двухтактных двигателей с воздушным охлаждением &#40;с раздельными и совмещенными системами смазывания&#41;. <br />
+<br />
+Пакет импортных присадок, введенных в масло, позволяет максимально эффективно использовать ресурс двигателя, не терять мощность, защищая элементы от последствий трения, высоких нагрузок и температур, улучшает смешиваемость, предотвращает залипание колец. <br />
+<br />
+Масло смешивается с топливом в соответствии с рекомендациями производителей техники. В отсутствии последней рекомендуемая порция смешивания масло/топливо – 1:50.]]>
+					</description>
+				</offer>
+				
+				<offer id="17671" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/razmorazhivateli_zamkov/17671/</url>
+						<oldprice>85.00</oldprice>
+						<price>80.75</price>
+						
+					<categoryId>1548</categoryId><picture>https://piteroils.ru/upload/iblock/8af/8af673279fa01d2d217cc80c4d2b6545.jpg</picture>
+					<name><![CDATA[3TON T-020 Размораживатель замков с силиконом (60мл) 40342]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">60мл</param>
+<param name="Штрихкод">4607030889238</param>
+<param name="Артикул">40342/T-020</param>
+
+					<description>
+						<![CDATA[Высокоэффективное средство для размораживания и предотвращения замерзания замков всех систем: автомобильных &#40;двери, багажник&#41;, висячих, врезных и пр. Защищает от коррозии, смазывает личинки. Эффективно вытесняет из замков и аналогичных устройств лед и воду, предотвращая повторное замерзание.]]>
+					</description>
+				</offer>
+				
+				<offer id="16970" available="true">
+					<url>https://piteroils.ru/catalog/smazki/otechestvennye_2/silikonovaya_smazka/16970/</url>
+						<oldprice>240.00</oldprice>
+						<price>228</price>
+						
+					<categoryId>1040</categoryId><picture>https://piteroils.ru/upload/iblock/fb7/fb7af8b010b7dad28c706beb3a2d092c.jpg</picture>
+					<name><![CDATA[3TON T-025 Силиконовая смазка (50мл) 40602]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">50мл</param>
+<param name="Штрихкод">4607030881638</param>
+<param name="Артикул">40602</param>
+
+					<description>
+						<![CDATA[3TON T-025 Силиконовая смазка &#40;50мл&#41;<br />
+Смазка силиконовая 3ton применяется для обработки резиновых уплотнений дверей, багажника и капота автомобиля. Предотвращает примерзание, старение и растрескивание резиновых уплотнений. Роликовая форма аппликатора обеспечивает экономичное использование. Регулярное применение восстанавливает эластичность и продлевает срок службы резиновых уплотнений пластиковых окон.]]>
+					</description>
+				</offer>
+				
+				<offer id="17661" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_stekol/17661/</url>
+						<oldprice>200.00</oldprice>
+						<price>190</price>
+						
+					<categoryId>1535</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/d7a/400_400_1/d7a59560f527fcc9cd491c83cdfb3d0d.jpg</picture>
+					<name><![CDATA[3TON T-521 Размораживатель стекол 550 мл триггер 40040]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030881256</param>
+<param name="Артикул">T-521/40317</param>
+
+					<description>
+						<![CDATA[Идеальное средство для удаления льда и снега со стекол и зеркал автомобиля. Предотвращает запотевание внутренних поверхностей стекол. Моментально удаляет лед со стекол и предотвращает его повторное появление. Не наносит вреда резиновым и металлическим деталям, а также лакокрасочному покрытию деталей кузова. Обезжиривает стекла и рабочую поверхность щеток. Не оставляет разводов и матового налета на стеклах.]]>
+					</description>
+				</offer>
+				
+				<offer id="17684" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/preobrazovateli_rzhavchiny/17684/</url>
+						<oldprice>205.00</oldprice>
+						<price>194.75</price>
+						
+					<categoryId>1552</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/e3e/400_400_1/e3e350ec836df8ecdf67f71d4d297aeb.jpg</picture>
+					<name><![CDATA[3TON T-579 Преобразователь ржавчины с цинком 550 мл 55273]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030882390</param>
+<param name="Артикул">T-579</param>
+
+					<description>
+						<![CDATA[Предназначен для модификации коррозии и эффективной защиты поверхностей деталей автомобилей, строительных металлоконструкций, ангаров и кровель, труб, водопроводов, нефтегазопроводов, мостов и гидросооружений, эстакад и платформ, строительных транспортных средств, железнодорожного транспорта, сельскохозяйственной техники и других металлоизделий, эксплуатируемых в условиях агрессивной промышленной атмосферы умеренного, тропического и холодного климатов. Вступает в реакцию с продуктами ржавчины, модифицирует их и превращает в несущий слой под грунтовочное, лакокрасочное или другого функционального покрытия. Наличие в составе активных ионов цинка позволяет обеспечить дополнительную защиту поверхности и продлить срок службы стальных изделий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17665" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_stekol/17665/</url>
+						<oldprice>150.00</oldprice>
+						<price>142.5</price>
+						
+					<categoryId>1535</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/513/400_400_1/513dfb06ca2639500546572f64f9624b.jpg</picture>
+					<name><![CDATA[3TON T-700 Антидождь INVISIBLE WIPERS 250мл 40304]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">0.25л</param>
+<param name="Штрихкод">4607030881676</param>
+<param name="Артикул">T-700/40304</param>
+
+					<description>
+						<![CDATA[Достаточно нанести Тритон Антидождь на стекло и можно наслаждаться безупречным видом. Тритон Антидождь делает процесс вождения более безопасным, улучшает обзор, может использоваться даже без щеток стеклоочистителя, тем самым продлевая срок их службы. Состав не оставляет мутного налета на поверхности. Чем чаще применяется Тритон Антидождь, тем лучше стекла противостоят грязи и износу.]]>
+					</description>
+				</offer>
+				
+				<offer id="17666" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_stekol/17666/</url>
+						<oldprice>155.00</oldprice>
+						<price>147.25</price>
+						
+					<categoryId>1535</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/231/400_400_1/23118b6878b2740306dabdccfad4fcee.jpg</picture>
+					<name><![CDATA[3TON T-707 Антизапотеватель 250 мл 52191]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">0.25л</param>
+<param name="Штрихкод">4607030889283</param>
+<param name="Артикул">T-707/52191</param>
+
+					<description>
+						<![CDATA[Предназначен для предотвращения запотевания стекол автомобиля &#40;включая стекла с обогревом&#41;, улучшает видимость и повышает безопасность движения. При значительных перепадах температур в течение продолжительного времени сохраняет эффект кристальной прозрачности. Не влияет на преломляющую способность стекла, исключает возникновение искажений. Не оставляет разводов. Может использоваться для предотвращения запотевания витрин, оконных стекол, зеркал.]]>
+					</description>
+				</offer>
+				
+				<offer id="17670" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/razmorazhivateli_zamkov/17670/</url>
+						<oldprice>85.00</oldprice>
+						<price>80.75</price>
+						
+					<categoryId>1548</categoryId><picture>https://piteroils.ru/upload/iblock/f96/f96bc6ddbe401a70f8a090ba3c4d3612.jpg</picture>
+					<name><![CDATA[3TON TC-020 Размораживатель замков с силиконом СПРЕЙ(50мл) 40342]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">50мл</param>
+<param name="Штрихкод">4607030889245</param>
+<param name="Артикул">40342/TC-020</param>
+
+					<description>
+						<![CDATA[Высокоэффективное средство для размораживания и предотвращения замерзания замков всех систем: автомобильных &#40;двери, багажник&#41;, висячих, врезных и пр. Защищает от коррозии, смазывает личинки. Эффективно вытесняет из замков и аналогичных устройств лед и воду, предотвращая повторное замерзание.]]>
+					</description>
+				</offer>
+				
+				<offer id="18015" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ochistiteli/18015/</url>
+						<oldprice>270.00</oldprice>
+						<price>256.5</price>
+						
+					<categoryId>1056</categoryId><picture>https://piteroils.ru/upload/iblock/2f6/u1ejervjjsec0xg65eq76g39axfjojev.jpg</picture>
+					<name><![CDATA[3TON TC-200 Очиститель кондиционера 210мл]]></name>
+					<param name="Назначение">Очиститель кондиционера</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">210мл</param>
+<param name="Штрихкод">3000000030615</param>
+<param name="Артикул">TC-200</param>
+
+					<description>
+						<![CDATA[Предназначен для очистки без разборки автомобильных и автобусных кондиционеров. Содержит в своем составе изопропиловый спирт и пропиленгликоль, обладающие очищающими и дезодорирующими свойствами. Устраняет неприятные и гнилостные запахи, появляющиеся в салоне автомобиля после включения кондиционера, уничтожает пыль и растворимые загрязнения с испарителя и воздуховодов, выводя их через дренажное отверстие. Улучшает микроклимат в салоне, придает приятный аромат.<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17691" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/smazki_universalnye/17691/</url>
+						<oldprice>230.00</oldprice>
+						<price>218.5</price>
+						
+					<categoryId>1553</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/f3c/400_400_1/f3cc75b1bf42157f26fd788ba961e6b5.jpg</picture>
+					<name><![CDATA[3TON TC-357 Проникающая смазка DG-40 335мл 52248]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">335мл</param>
+<param name="Штрихкод">4607030881867</param>
+<param name="Артикул">TC-357/52248</param>
+
+					<description>
+						<![CDATA[Благодаря проникающим и смазывающим свойствам помогает деталям и механизмам работать исправно и эффективно. Устраняет скрип, вытесняет влагу с металлических поверхностей, очищает от смолы, клея, жира.Оставляет защитную пленку против коррозии. Проникает в ржавчину и освобождает болты и гайки, освобождает и смазывает движущиеся части механизмов.]]>
+					</description>
+				</offer>
+				
+				<offer id="17206" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/17206/</url>
+						<oldprice>200.00</oldprice>
+						<price>190</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/af5/400_400_1/qu9a4b95kcnm06g2e0njp2dz7ni9qj0g.jpg</picture>
+					<name><![CDATA[3TON TC-501 Очиститель ковров и велюра аэр.520мл 40024]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880211</param>
+<param name="Артикул">40024</param>
+
+					<description>
+						<![CDATA[Эффективное средство нового поколения специально разработано для удаления различных загрязнений и пятен с тканевых, ковровых, велюровых и других покрытий. Обладает антистатическим и водоотталкивающим действием. Восстанавливает цвет.]]>
+					</description>
+				</offer>
+				
+				<offer id="17689" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ochistiteli/17689/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1056</categoryId><picture>https://piteroils.ru/upload/iblock/3f2/2tyyfg7683ihnl84z1bffij8jpg7hif2.jpg</picture>
+					<name><![CDATA[3TON TC-505 Очиститель битумных пятен аэр. 520мл 40014]]></name>
+					<param name="Назначение">Очиститель битумных пятен</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880235</param>
+<param name="Артикул">40014</param>
+
+					<description>
+						<![CDATA[Является продуктом, произведенным специально для очистки лакокрасочного покрытия и хромированных деталей кузова автомобиля от стойких загрязнений. Легко очищает от пятен масла, битума, смолы, следов от насекомых и почек липы. Эффективен при удалении следов от малярной ленты, автомобильного консерванта. Специальная формула состава предотвращает его испарение и содержит фиксирующие компоненты, снижающие текучесть жидкости.]]>
+					</description>
+				</offer>
+				
+				<offer id="15595" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/mastika_movil_1/15595/</url>
+						<oldprice>325.00</oldprice>
+						<price>308.75</price>
+						
+					<categoryId>1568</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/6c3/400_400_1/6c3a0e28b3caa2d1f995a389a0e3cf61.jpg</picture>
+					<name><![CDATA[3TON TC-507 Мовиль Люкс аэрозоль (520мг)40012]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880242</param>
+<param name="Артикул">40012</param>
+
+					<description>
+						<![CDATA[Консервант полостей автомобиля. Надежная защита кузова автомобиля. Рекомендуется для обработки труднодоступных мест. Применяется для защиты от коррозии скрытых полостей &#40;порогов, корпусов дверей, стоек, лонжеронов и т. п.&#41;, а также для временной защиты днища кузова и арок колес. Допускается применение в скрытых полостях, ранее обработанных консервирующими составами. Наносится на ржавую и влажную поверхность, а также на заводские антикоррозионные покрытия.]]>
+					</description>
+				</offer>
+				
+				<offer id="16208" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ochistiteli/16208/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1056</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/a6a/400_400_1/reeivwefc3n1meqm44dh2gj0nldovcr6.jpg</picture>
+					<name><![CDATA[3TON TC-509 Очиститель карбюратора аэр.520мл 40022]]></name>
+					<param name="Назначение">Очиститель карбюратора/дросселя</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030882253</param>
+<param name="Артикул">40022</param>
+
+					<description>
+						<![CDATA[Предназначен для улучшения пусковых качеств автомобиля. Эффективно растворяет смолянистый налет, масло и другие отработанные вещества с внешних и внутренних деталей карбюратора. Позволяет быстро и эффективно очистить карбюратор без его разборки, не нанося вреда кислородным датчикам и каталитическим конверторам. Восстанавливает мощность двигателя и улучшает динамику автомобиля. Может быть использован с любым типом бензина.<br />
+<br />
+Применение для флакона: Добавить содержимое банки в топливный бак перед заправкой в пропорции: 1 банка &#40;354 мл&#41; на 50 литров топлива. Рекомендуется регулярно использовать Тритон Очиститель карбюратора для поддержания топливной системы в нормальном рабочем состоянии. <br />
+<br />
+Применение для аэрозольного балона: На холодном двигателе снять воздушный фильтр. Распылить Тритон Очиститель карбюратора по всей внешней поверхности карбюратора, особенно на соединения. Позволить составу впитаться. Распылить состав повторно, работая при этом дроссельной заслонкой. Поставить автомобиль на нейтральную передачу и ручной тормоз. Запустить двигатель. Многократно распылить состав в полости карбюратора, одновременно слегка газуя, чтобы не дать двигателю заглохнуть. Если двигатель заглох, вновь запустить и продолжайте очистку. При низких температурах давление в баллоне понижается, в результате чего распыление содержимого может быть затруднено или не происходить совсем. Для восстановления первоначальных свойств рекомендуется подержать баллон при комнатной температуре.]]>
+					</description>
+				</offer>
+				
+				<offer id="17693" available="true">
+					<url>https://piteroils.ru/catalog/avtozhidkosti/rastvoriteli/17693/</url>
+						<oldprice>240.00</oldprice>
+						<price>228</price>
+						
+					<categoryId>1086</categoryId><picture>https://piteroils.ru/upload/iblock/c40/c401f1a043b84dd818101b85b3f19e31.jpg</picture>
+					<name><![CDATA[3TON TC-511 Растворитель ржавчины (520мл) 40044]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880471</param>
+<param name="Артикул">40044</param>
+
+					<description>
+						<![CDATA[Является универсальным, многоцелевым аэрозольным растворителем, быстро и эффективно устраняющим коррозию, накипь, краску и лак на резьбовых и других видах соединений. Тритон Супер растворитель ржавчины может применяться для всех видов механизмов. Образует покрытие, предохраняющее от повторного появления ржавчины.]]>
+					</description>
+				</offer>
+				
+				<offer id="15890" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/15890/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/iblock/f52/f52253a1dfa1c98c5134fc2c08a65894.jpg</picture>
+					<name><![CDATA[3TON TC-516 Полироль пластика лимон 335мл 40557]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030889399</param>
+<param name="Артикул">40557</param>
+
+					<description>
+						<![CDATA[Предназначен для придания окончательного блеска и защитного покрытия отделке кузова и интерьера автомобиля от микротрещин и вредного воздействия солей. Превосходен для таких поверхностей, как приборная доска, дверные панели, центральная консоль, молдинги, бампер, шины и т.д. Смесь натуральных и синтетических восков способствует восстановлению глянцевого блеска поверхности, снимает статическое электричество. Предохраняет покрытия от действия солнечных лучей, царапин и высыхания. Идеален для регулярного использования в быту: для сумок, чемоданов, акриловых и пластиковых покрытий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17050" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/mastika_movil_1/17050/</url>
+						<oldprice>325.00</oldprice>
+						<price>308.75</price>
+						
+					<categoryId>1568</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/3a1/400_400_1/3a1d6522fdc77a08dd5bc053b07c76df.jpg</picture>
+					<name><![CDATA[3TON TC-519 Мастика резинобитумная 520мл 40041]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880204</param>
+<param name="Артикул">40041</param>
+
+					<description>
+						<![CDATA[3TON TC-519 Мастика резинобитумная 520мл<br />
+Предназначена для антикоррозионной обработки наружных поверхностей автомобиля &#40;днище, пороги, арки колес и т.д.&#41;, для антикоррозионной и шумоизоляционной обработки внутренних поверхностей автомобиля &#40;пол, внутренние поверхности крыльев, капота, багажника&#41;, для антикоррозионной обработки металлических конструкций &#40;трубы горячего и холодного водоснабжения, металлические ограды и т.п.&#41;. Отличительными особенностями мастики являются высокая эластичность и долговечность при температурах до -40°С, повышенная устойчивость к абразивному износу и воздействию водных растворов солей.]]>
+					</description>
+				</offer>
+				
+				<offer id="15891" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/15891/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/iblock/1e6/1e6981d1d81b2da523b3e5a3b46e1783.jpg</picture>
+					<name><![CDATA[3TON TC-520 Полироль пластика ВАНИЛЬ 335 мл 40559]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030889412</param>
+<param name="Артикул">40559</param>
+
+					<description>
+						<![CDATA[Предназначен для придания окончательного блеска и защитного покрытия отделке кузова и интерьера автомобиля от микротрещин и вредного воздействия солей. Превосходен для таких поверхностей, как приборная доска, дверные панели, центральная консоль, молдинги, бампер, шины и т.д. Смесь натуральных и синтетических восков способствует восстановлению глянцевого блеска поверхности, снимает статическое электричество. Предохраняет покрытия от действия солнечных лучей, царапин и высыхания. Идеален для регулярного использования в быту: для сумок, чемоданов, акриловых и пластиковых покрытий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17664" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_stekol/17664/</url>
+						<oldprice>205.00</oldprice>
+						<price>194.75</price>
+						
+					<categoryId>1535</categoryId><picture>https://piteroils.ru/upload/iblock/fb2/fb23ac9f06f85a2e2b52d9f58d474ac2.jpg</picture>
+					<name><![CDATA[3TON TC-521 Размораживатель стекол (аэрозоль) 550 мл 40317]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030881249</param>
+<param name="Артикул">TC-521/40317</param>
+
+					<description>
+						<![CDATA[Идеальное средство для удаления льда и снега со стекол и зеркал автомобиля. Предотвращает запотевание внутренних поверхностей стекол. Моментально удаляет лед со стекол и предотвращает его повторное появление. Не наносит вреда резиновым и металлическим деталям, а также лакокрасочному покрытию деталей кузова. Обезжиривает стекла и рабочую поверхность щеток. Не оставляет разводов и матового налета на стеклах.]]>
+					</description>
+				</offer>
+				
+				<offer id="18522" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/18522/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/688/400_400_1/mqoe238ggrhy2njt5ldfx7j2ckyq9ytb.jpg</picture>
+					<name><![CDATA[3TON TC-522 Полироль пластика аэрозоль 335мл 40600]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">355мл</param>
+<param name="Артикул">40600</param>
+
+					<description>
+						<![CDATA[Предназначен для придания окончательного блеска и защитного покрытия отделке кузова и интерьера автомобиля от микротрещин и вредного воздействия солей. Превосходен для таких поверхностей, как приборная доска, дверные панели, центральная консоль, молдинги, бампер, шины и т.д. Смесь натуральных и синтетических восков способствует восстановлению глянцевого блеска поверхности, снимает статическое электричество. Предохраняет покрытия от действия солнечных лучей, царапин и высыхания. Идеален для регулярного использования в быту: для сумок, чемоданов, акриловых и пластиковых покрытий.]]>
+					</description>
+				</offer>
+				
+				<offer id="17700" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/smazki_universalnye/17700/</url>
+						<oldprice>300.00</oldprice>
+						<price>285</price>
+						
+					<categoryId>1553</categoryId><picture>https://piteroils.ru/upload/iblock/85e/85e51f359559cd4b7189f25ae3b6aa8a.jpg</picture>
+					<name><![CDATA[3TON TC-523 Смазка литиевая 520мл 40289]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030880754</param>
+<param name="Артикул">40289</param>
+
+					<description>
+						<![CDATA[Аэрозольная белая литиевая смазка обладает глубоким проникающим эффектом. Обеспечивает качественную смазку и долговременную надежную защиту от коррозии при любой погоде. Предохраняет крепежи и контакты от коррозии, активируемой конденсацией влаги при перепаде температур и воздействием дорожной соли. Значительно увеличивает надежность электрооборудования. Рекомендуется как универсальный смазочный материал для любых резьбовых соединений и подшипников. Уменьшает трение металлов. Является консистентной смазкой, поэтому после нанесения не тает, не стекает, не смывается водой и не замерзает.]]>
+					</description>
+				</offer>
+				
+				<offer id="14590" available="true">
+					<url>https://piteroils.ru/catalog/smazki/otechestvennye_2/silikonovaya_smazka/14590/</url>
+						<oldprice>330.00</oldprice>
+						<price>313.5</price>
+						
+					<categoryId>1040</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/5da/400_400_1/5da078914ad0d59aa5a1a55c61528a37.jpeg</picture>
+					<name><![CDATA[3TON TC-525 Силиконовая смазка аэрозоль (520мл) 40290]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">0.5л</param>
+<param name="Штрихкод">4607030880761</param>
+<param name="Артикул">40290</param>
+
+					<description>
+						<![CDATA[Легко и удобно используется, образует на поверхности сплошной полимерный слой молекул силикона, придающий водоотталкивающие свойства деталям любого типа механического оборудования. Обеспечивает качественную смазку и долговременную надежную защиту от влаги и коррозии при любой погоде. Обладает уникальной адгезией к металлам, пластикам, резине, винилу. Устраняет трение и скрип, возникающие при работе узлов и агрегатов. Применяется для смазки велосипедов, бытовой техники.<br />
+<br />
+Код — ТС-526<br />
+Емкость — 335 мл<br />
+Упаковка — 12 шт<br />
+<br />
+Код — ТС-525<br />
+Емкость — 520 см?<br />
+Упаковка — 12 шт<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="17066" available="true">
+					<url>https://piteroils.ru/catalog/smazki/otechestvennye_2/silikonovaya_smazka/17066/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1040</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/d91/400_400_1/d9116fb6cfb60097eb19aad20d44a11e.jpg</picture>
+					<name><![CDATA[3TON TC-526 Силиконовая смазка аэрозоль (335мл) 40601]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">300мл</param>
+<param name="Штрихкод">4607030889436</param>
+<param name="Артикул">40601</param>
+
+					<description>
+						<![CDATA[Легко и удобно используется, образует на поверхности сплошной полимерный слой молекул силикона, придающий водоотталкивающие свойства деталям любого типа механического оборудования. Обеспечивает качественную смазку и долговременную надежную защиту от влаги и коррозии при любой погоде. Обладает уникальной адгезией к металлам, пластикам, резине, винилу. Устраняет трение и скрип, возникающие при работе узлов и агрегатов. Применяется для смазки велосипедов, бытовой техники.<br />]]>
+					</description>
+				</offer>
+				
+				<offer id="15895" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/bystryy_start/15895/</url>
+						<oldprice>300.00</oldprice>
+						<price>285</price>
+						
+					<categoryId>1290</categoryId><picture>https://piteroils.ru/upload/iblock/90c/90c8b9beb73f52c79e42375f5fd083d8.jpg</picture>
+					<name><![CDATA[3TON TC-527 Быстрый Старт  аэрозоль, 520мл 40316]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030880778</param>
+<param name="Артикул">40316</param>
+
+					<description>
+						<![CDATA[Предназначен для быстрого запуска бензиновых и дизельных двигателей при низких температурах окружающей среды. Продлевает срок службы аккумулятора и зажигания. Содержит смазывающие и антикоррозионные добавки для цилиндропоршневой группы.<br />
+ПРИМЕНЕНИЕ: Хорошо встряхнуть баллон. Распылить Тритон Быстрый старт в воздухозаборник двигателя. Попробовать завести двигатель. Повторить попытку до 3 раз. Не злоупотреблять использованием состава сверх рекомендованной процедуры. Не использовать для двигателей с плохой изоляцией электрооборудования. Не распылять состав при включенном зажигании. При низких температурах давление в баллоне понижается, в результате чего распыление содержимого может быть затруднено или не происходить совсем. Для восстановления первоначальных свойств рекомендуется подержать баллон при комнатной температуре.]]>
+					</description>
+				</offer>
+				
+				<offer id="14692" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_shinami_i_diskami/14692/</url>
+						<oldprice>270.00</oldprice>
+						<price>256.5</price>
+						
+					<categoryId>1288</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/78f/400_400_1/ntsfpy8noyc3phvrr24mpql6jjgn0m9z.jpg</picture>
+					<name><![CDATA[3TON TC-529 Очиститель тормозных дисков аэрозоль (520мл) 40319]]></name>
+					<param name="Назначение">Очиститель тормозов</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">0.5л</param>
+<param name="Артикул">40319</param>
+
+					<description>
+						<![CDATA[3ton TC-529 Очиститель тормозных дисков эффективно удаляет масло, технические жидкости, смазки и другие загрязнения с тормозных дисков, барабанов и колодок. Позволяет проводить очистку без демонтажа. Устраняет скрип, повышает эффективность торможения, снижает нагрев деталей тормозных механизмов. Может использоваться для очистки разъемов в электропроводке. Не содержит силикона, не оставляет осадка. Незаменим для высококачественной очистки и обезжиривания металлических поверхностей.]]>
+					</description>
+				</offer>
+				
+				<offer id="15004" available="true">
+					<url>https://piteroils.ru/catalog/smazki/otechestvennye_2/grafitnaya_smazka/15004/</url>
+						<oldprice>330.00</oldprice>
+						<price>313.5</price>
+						
+					<categoryId>1032</categoryId><picture>https://piteroils.ru/upload/iblock/2a9/2a9ec6dc103c35a5435f4da32526df87.jpg</picture>
+					<name><![CDATA[3TON TC-531 Графитовая смазка аэр. (520мл) 40318]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881263</param>
+<param name="Артикул">40318</param>
+
+					<description>
+						<![CDATA[Разработана для обработки троса спидометра, троса ручного тормоза, сцепления и акселератора, тросов тормозной системы и капота автомобиля. Идеально подходит для снижения трения и изнашивания деталей и механизмов без предусмотренной системы смазки: замков, шарниров, оружия. Графитовая смазка не оказывает вредного воздействия на лакокрасочное покрытие, резину и пластмассу.<br />
+<br />
+Код — ТС-531<br />
+Емкость — 520 см?]]>
+					</description>
+				</offer>
+				
+				<offer id="18256" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_shinami_i_diskami/18256/</url>
+						<oldprice>300.00</oldprice>
+						<price>285</price>
+						
+					<categoryId>1288</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/c3a/400_400_1/c3a4dc5aaabef0165ae552211598010e.jpg</picture>
+					<name><![CDATA[3TON TC-533 Очиститель шин TIRE (520мл) 40282]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881492</param>
+<param name="Артикул">40282</param>
+
+					<description>
+						<![CDATA[3TON TC-533 Очиститель шин TIRE &#40;520мл&#41; Профессиональная пенная формула для высококачественной экспресс-очистки и обновления боковых поверхностей покрышек. Эффективно растворяет и быстро смывает все накопившиеся загрязнения, включая трудноудалимую въевшуюся грязь и дорожный налет. Формирует на поверхности резины защитную грязеотталкивающую полимерную пленку, обеспечивающую обрабатываемой поверхности ухоженный глянцевый вид новых покрышек. Не содержит растворитель.<br />
+<br />
+Способ применения<br />
+Тщательно встряхнуть баллон. С расстояния 15-20 см, удерживая баллон вертикально, круговыми движениями равномерно нанесите пену на боковые поверхности покрышек. Используйте при температуре не ниже &#43;14°С. Дайте составу впитаться, стечь и высохнуть до появления блестящей черной пленки на поверхности. Не наносите средство на тормозные диски и колодки, резиновые коврики салона, мотоциклетные или велосипедные шины и сиденья. При попадании на краску или пластик сотрите сухой чистой тканью. Может наноситься на мокрые покрышки, любые резиновые детали. Мойка после применения не требуется.]]>
+					</description>
+				</offer>
+				
+				<offer id="15897" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_shinami_i_diskami/15897/</url>
+						<oldprice>305.00</oldprice>
+						<price>289.75</price>
+						
+					<categoryId>1288</categoryId><picture>https://piteroils.ru/upload/iblock/50f/50f8b49cbec429920e7678e4c4a756e7.jpg</picture>
+					<name><![CDATA[3TON TC-534 Чернитель покрышек (520 мл) 40046]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030881546</param>
+<param name="Артикул">40046</param>
+
+					<description>
+						<![CDATA[Эффективное средство для улучшения внешнего вида шин и обновления боковых поверхностей покрышек и резиновых молдингов.<br />
+Придает им интенсивный блеск «мокрых» шин, восстанавливает первоначальный цвет и устраняет мелкие дефекты поверхности.<br />
+Формирует на поверхности резины защитную грязеотталкивающую полимерную пленку, обеспечивающую обрабатываемой поверхности ухоженный глянцевый вид новых покрышек. Мойка после применения не требуется.<br />
+Восстанавливает структуру поверхности — проникает в микротрещины резины и останавливает их развитие. Препятствует растрескиванию и старению колес. Незаменимое средство для поддержания автомобиля в идеальном состоянии и для проведения предпродажной подготовки. Обработанные очистителем колеса меньше загрязняются, их можно реже мыть.]]>
+					</description>
+				</offer>
+				
+				<offer id="17688" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/smazki_universalnye/17688/</url>
+						<oldprice>325.00</oldprice>
+						<price>308.75</price>
+						
+					<categoryId>1553</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/998/400_400_1/998801dc4146097753d5ea32ade36c17.jpg</picture>
+					<name><![CDATA[3TON TC-535 Проникающая смазка DG-40 Penetrating lubricant 520мл 52186]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881560</param>
+<param name="Артикул">52186</param>
+
+					<description>
+						<![CDATA[Благодаря проникающим и смазывающим свойствам помогает деталям и механизмам работать исправно и эффективно. Устраняет скрип, вытесняет влагу с металлических поверхностей, очищает от смолы, клея, жира.Оставляет защитную пленку против коррозии. Проникает в ржавчину и освобождает болты и гайки, освобождает и смазывает движущиеся части механизмов.]]>
+					</description>
+				</offer>
+				
+				<offer id="17702" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/antigraviy/17702/</url>
+						<oldprice>400.00</oldprice>
+						<price>380</price>
+						
+					<categoryId>1554</categoryId><picture>https://piteroils.ru/upload/iblock/77f/77f393c5013f5d5af8344727e94e4c63.jpg</picture>
+					<name><![CDATA[3TON TC-538 Антигравий черный 520мл 55303]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030882772</param>
+<param name="Артикул">55303</param>
+
+					<description>
+						<![CDATA[3ton Антигравий — соединение на основе синтетических смол, бутадиен-стирольного и винилхлоридного каучуков, наполнителей, ингибиторов коррозии и функциональных добавок в органических растворителях. 3ton АНТИГРАВИЙ предназначен для защиты нижней части кузова автомобиля, наиболее подверженной агрессивному абразивному воздействию песка, щебня, гравия. Покрытие обеспечивает эффективную антикоррозионную защиту и дополнительную шумоизоляцию кузова автомобиля. 3ton АНТИГРАВИЙ образует эластично-упругое покрытие, гладкое или структурированное черного цвета.]]>
+					</description>
+				</offer>
+				
+				<offer id="17703" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/antigraviy/17703/</url>
+						<oldprice>435.00</oldprice>
+						<price>413.25</price>
+						
+					<categoryId>1554</categoryId><picture>https://piteroils.ru/upload/iblock/fbe/fbee152f98f13c4cd554a5af1fea3218.jpg</picture>
+					<name><![CDATA[3TON TC-539 Антигравий серый аэрозоль 520мл 52193]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Артикул">TC-539</param>
+
+					<description>
+						<![CDATA[3ton Антигравий — соединение на основе синтетических смол, бутадиен-стирольного и винилхлоридного каучуков, наполнителей, ингибиторов коррозии и функциональных добавок в органических растворителях. 3ton АНТИГРАВИЙ предназначен для защиты нижней части кузова автомобиля, наиболее подверженной агрессивному абразивному воздействию песка, щебня, гравия. Покрытие обеспечивает эффективную антикоррозионную защиту и дополнительную шумоизоляцию кузова автомобиля]]>
+					</description>
+				</offer>
+				
+				<offer id="17704" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/antigraviy/17704/</url>
+						<oldprice>390.00</oldprice>
+						<price>370.5</price>
+						
+					<categoryId>1554</categoryId><picture>https://piteroils.ru/upload/iblock/6e4/6e49c56bcef2b8342a9df9e814d7b57a.jpg</picture>
+					<name><![CDATA[3TON TC-540 Антигравий белый 520мл 	55304]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030882789</param>
+<param name="Артикул">TC-540/55304</param>
+
+					<description>
+						<![CDATA[3ton Антигравий — соединение на основе синтетических смол, бутадиен-стирольного и винилхлоридного каучуков, наполнителей, ингибиторов коррозии и функциональных добавок в органических растворителях. 3ton АНТИГРАВИЙ предназначен для защиты нижней части кузова автомобиля, наиболее подверженной агрессивному абразивному воздействию песка, щебня, гравия. Покрытие обеспечивает эффективную антикоррозионную защиту и дополнительную шумоизоляцию кузова автомобиля]]>
+					</description>
+				</offer>
+				
+				<offer id="17660" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/17660/</url>
+						<oldprice>220.00</oldprice>
+						<price>209</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/iblock/a77/rv0y1ahzv2qow8vv4x49erbiaijb7g04.jpg</picture>
+					<name><![CDATA[3TON TC-541 Химчистка салона аэрозоль 520мл 52244]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881805</param>
+<param name="Артикул">52244</param>
+
+					<description>
+						<![CDATA[Очиститель обивки 3ton благодаря улучшенной пенной формуле эффективно очищает тканевую и ковровую обивку салона автомобиля от въевшейся грязи. Выводит пятна и восстанавливает утерянный цвет, расправляет примявшийся ворс. Создает пенный слой проникающего действия, который удерживается на поверхности, не впитывается и не стекает, что позволяет очистить сидения, обивку дверей и потолка, ковровые покрытия. Освежает и ароматизирует воздух.]]>
+					</description>
+				</offer>
+				
+				<offer id="15880" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/obezzhirivateli/15880/</url>
+						<oldprice>255.00</oldprice>
+						<price>242.25</price>
+						
+					<categoryId>1286</categoryId><picture>https://piteroils.ru/upload/iblock/665/665700ff272398827b2834174585eafe.jpg</picture>
+					<name><![CDATA[3TON TC-545 Обезжириватель универсальный 520 мл 52220]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030889788</param>
+<param name="Артикул">52220</param>
+
+					<description>
+						<![CDATA[Применяется для очистки и обезжиривания поверхностей деталей на всех этапах кузовного ремонта. Пригоден для обезжиривания старых лакокрасочных покрытий, включая термопластичные акриловые, стали, оцинкованной стали, алюминия, загрунтованных и шпатлеванных поверхностей. 3ton Универсальный обезжириватель позволяет быстро и эффективно очистить поверхность от различных загрязнений, жиров, масел, смолы, гудрона, силиконов и т.д.]]>
+					</description>
+				</offer>
+				
+				<offer id="17701" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/antigraviy/17701/</url>
+						<oldprice>330.00</oldprice>
+						<price>313.5</price>
+						
+					<categoryId>1554</categoryId><picture>https://piteroils.ru/upload/iblock/b2b/b2b37bbf791fcdff348b5733ab8a502b.jpg</picture>
+					<name><![CDATA[3TON TC-553 Защита от коррозии ML 520 мл АЭРОЗОЛЬ 40610]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881775</param>
+<param name="Артикул">TC-553/40610</param>
+
+					<description>
+						<![CDATA[Композиция на основе природных и синтетических пленкообразователей, ингибиторов коррозии, функциональных добавок и органического растворителя без запаха. 3TON ML предназначен для защиты скрытых полостей &#40;дверных панелей, боковин кузова, лонжеронов и т.д.&#41;. Покрытие отлично защищает металлические поверхности от коррозии, воздействия антиобледенительных реагентов, электролитов. Не воздействует на лакокрасочное покрытие, пластик и резину. 3TON ML образует полутвердое эластично-упругое покрытие от светло-янтарного до коричневого цвета.]]>
+					</description>
+				</offer>
+				
+				<offer id="17687" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ochistiteli/17687/</url>
+						<oldprice>295.00</oldprice>
+						<price>280.25</price>
+						
+					<categoryId>1056</categoryId><picture>https://piteroils.ru/upload/iblock/b3d/kphv8mn0lh2v2nq1l1f36esmmtq0lr1m.jpg</picture>
+					<name><![CDATA[3TON TC-565 Очиститель электрических контактов (520мл) 52245]]></name>
+					<param name="Назначение">Очиститель электроконтактов</param>
+<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030881843</param>
+<param name="Артикул">52245</param>
+
+					<description>
+						<![CDATA[Предназначен для удаления грязи, флюса, пыли и других веществ, оседающих на поверхности и загрязняющих чувствительные электрические/электронные средства. После нанесения на поверхность легко растворяет и, стекая, смывает загрязнения. Обладает отличной смазывающей способностью. Не повреждает металлические, окрашенные поверхности и пластик. Пригоден для использования без разборки контактов.]]>
+					</description>
+				</offer>
+				
+				<offer id="17707" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/smazki_universalnye/17707/</url>
+						<oldprice>395.00</oldprice>
+						<price>375.25</price>
+						
+					<categoryId>1553</categoryId><picture>https://piteroils.ru/upload/iblock/799/7997e9a30f27bc838cdae53b635167a8.jpg</picture>
+					<name><![CDATA[3TON TC-573 Адгезионная синтетическая смазка (520мл) 55256]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030882192</param>
+<param name="Артикул">TC-573 / 55256</param>
+
+					<description>
+						<![CDATA[Предназначена для смазывания деталей в труднодоступных местах, испытывающих воздействие высокого давления, ударов и вибрации &#40;дверные петли, тяги, цепные и шестеренчатые приводы и т.д.&#41;.<br />
+<br />
+Обладает высокой проникающей способностью, малым временем загустевания, высокой адгезией, стойкостью к высокому давлению.<br />
+<br />
+Мгновенное испарение растворителя обеспечивает сильное прилипание смазки к поверхности и увеличение длительности работы смазки. Длительное время не истирается и не вымывается даже при интенсивных нагрузках. Идеальна для смазывания деталей, частая смазка которых затруднена.<br />
+<br />
+Идеально подходит для смазывания крепежа из высоколегированных сталей. Существенно снижается сопротивление завинчиванию. Практически исключается вероятность прикипания поверхностей друг к другу.]]>
+					</description>
+				</offer>
+				
+				<offer id="15588" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/mastika_movil_1/15588/</url>
+						<oldprice>320.00</oldprice>
+						<price>304</price>
+						
+					<categoryId>1568</categoryId><picture>https://piteroils.ru/upload/iblock/391/391c922a89112f1688bc073a9215aea5.png</picture>
+					<name><![CDATA[3TON TC-575 Мовиль цинк (520мл) 55260]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">520мл</param>
+<param name="Штрихкод">4607030882239</param>
+<param name="Артикул">55260</param>
+
+					<description>
+						<![CDATA[Высокоэффективный антикоррозионный материал на основе соединений цинка. Содержание в составе цинка защищает от возникновения очагов электрохимической коррозии. Применяется для защиты скрытых полостей &#40;порогов, корпусов дверей, стоек, лонжеронов и т. п.&#41;, а также для временной защиты днища кузова и арок колес. Допускается нанесение на ржавую поверхность, а также на поверхность ранее обработанную консервирующими составами. Рекомендуется для обработки труднодоступных мест.]]>
+					</description>
+				</offer>
+				
+				<offer id="17051" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/mastika_movil_1/17051/</url>
+						<oldprice>500.00</oldprice>
+						<price>475</price>
+						
+					<categoryId>1568</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/00d/400_400_1/00d4d6f57ca37323e30eff58b4bd30a5.jpg</picture>
+					<name><![CDATA[3TON TC-903 Мовиль ЛЮКС 1000 мл 40607]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">1000мл</param>
+<param name="Штрихкод">4607030889900</param>
+<param name="Артикул">40607</param>
+
+					<description>
+						<![CDATA[3TON TC-903 Мовиль ЛЮКС 1000 мл<br />
+Консервант полостей автомобиля. Надежная защита кузова автомобиля. Рекомендуется для обработки труднодоступных мест. Применяется для защиты от коррозии скрытых полостей &#40;порогов, корпусов дверей, стоек, лонжеронов и т. п.&#41;, а также для временной защиты днища кузова и арок колес. Допускается применение в скрытых полостях, ранее обработанных консервирующими составами. Наносится на ржавую и влажную поверхность, а также на заводские антикоррозионные покрытия.]]>
+					</description>
+				</offer>
+				
+				<offer id="17705" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_kuzova/antigraviy/17705/</url>
+						<oldprice>645.00</oldprice>
+						<price>612.75</price>
+						
+					<categoryId>1554</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/e2b/400_400_1/e2b042565d4279e0fb1bb2dd995d83cb.jpeg</picture>
+					<name><![CDATA[3TON TC-907 Антигравий (серый) 1000 мл аэрозоль 40609]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">1000мл</param>
+<param name="Штрихкод">4607030889887</param>
+<param name="Артикул">40609</param>
+
+					<description>
+						<![CDATA[3ton Антигравий — соединение на основе синтетических смол, бутадиен-стирольного и винилхлоридного каучуков, наполнителей, ингибиторов коррозии и функциональных добавок в органических растворителях. 3ton АНТИГРАВИЙ предназначен для защиты нижней части кузова автомобиля, наиболее подверженной агрессивному абразивному воздействию песка, щебня, гравия. Покрытие обеспечивает эффективную антикоррозионную защиту и дополнительную шумоизоляцию кузова автомобиля. 3ton АНТИГРАВИЙ образует эластично-упругое покрытие]]>
+					</description>
+				</offer>
+				
+				<offer id="20563" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/20563/</url>
+						<oldprice>185.00</oldprice>
+						<price>175.75</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/81d/400_400_1/oujv7b7go1c47mg1sjww332v94ktjfdk.jfif</picture>
+					<name><![CDATA[3TON TH-501 Очиститель ковров, велюра и тканевых покрытий, 550мл 40025]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030880013</param>
+<param name="Артикул">40025</param>
+
+					<description>
+						<![CDATA[3TON TH-501 Очиститель ковров, велюра и тканевых покрытий, 550мл 40025<br />
+<br />
+Эффективное средство нового поколения специально разработано для удаления различных загрязнений и пятен с тканевых, ковровых, велюровых и других покрытий. Обладает антистатическим и водоотталкивающим действием. Восстанавливает цвет.]]>
+					</description>
+				</offer>
+				
+				<offer id="18521" available="true">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_salonom/18521/</url>
+						<oldprice>160.00</oldprice>
+						<price>152</price>
+						
+					<categoryId>1289</categoryId><picture>https://piteroils.ru/upload/iblock/b7a/b7ad130b01410991180df6a7d044af6b.jpg</picture>
+					<name><![CDATA[3TON TH-521 Очиститель стекол, фар, зеркал ЗИМНИЙ спрей 550мл 40340]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030889269</param>
+<param name="Артикул">TH-521/40340</param>
+
+					<description>
+						<![CDATA[Предназначен для высокоэффективной очистки в зимнее время стекол, фар и зеркал автомобиля от грязи, масла, зимних реагентов и других видов загрязнений. Великолепно очищает, не оставляя разводов, бликов и налета. Обеспечивает хорошую видимость, помогая создавать условия для приятного вождения автомобиля.]]>
+					</description>
+				</offer>
+				
+				<offer id="17669" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/dlya_stekol/17669/</url>
+						<oldprice>205.00</oldprice>
+						<price>194.75</price>
+						
+					<categoryId>1535</categoryId><picture>https://piteroils.ru/upload/resize_cache/iblock/cb4/400_400_1/cb496542018a988baf4f4604c7a67aa5.jpg</picture>
+					<name><![CDATA[3TON TH-522 Размораживатель стекол, фар и зеркал 550 мл триггер 40341]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Объем">550мл</param>
+<param name="Штрихкод">4607030889252</param>
+<param name="Артикул">TH-522/40341</param>
+
+					<description>
+						<![CDATA[Идеальное средство для удаления льда и снега со стекол и зеркал автомобиля. Предотвращает запотевание внутренних поверхностей стекол. Моментально удаляет лед со стекол и предотвращает его повторное появление. Не наносит вреда резиновым и металлическим деталям, а также лакокрасочному покрытию деталей кузова. Обезжиривает стекла и рабочую поверхность щеток. Не оставляет разводов и матового налета на стеклах.]]>
+					</description>
+				</offer>
+				
+				<offer id="15896" available="false">
+					<url>https://piteroils.ru/catalog/avtokhimiya/ukhod_za_shinami_i_diskami/15896/</url>
+						<oldprice>135.00</oldprice>
+						<price>128.25</price>
+						
+					<categoryId>1288</categoryId><picture>https://piteroils.ru/upload/iblock/d9e/d9eca725bd169bceda8000ffb5362df1.jpg</picture>
+					<name><![CDATA[3TON TH-535 Очиститель колесных дисков 550 мл 40360]]></name>
+					<param name="Бренд">3TON</param>
+<param name="Штрихкод">4607030881720</param>
+<param name="Артикул">40360</param>
+
+					<description>
+						<![CDATA[Легко очищает колесные диски от загрязнений, придает им блеск. Создает грязеотталкивающую и антикоррозионную защитную пленку. Удаляет дорожную и тормозную пыль, следы от насекомых и битума. Не оказывает вредного воздействия на краску, пластик, резину и хромированные части автомобиля. Применяется для очистки колесных дисков всех типов]]>
+					</description>
+				</offer>
+				
+		</offers>
+	</shop>
+	</yml_catalog>
+	
